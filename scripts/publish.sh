@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 # Daily gas-dashboard refresh, run on the stocks server (replaces the old
 # GitHub Actions workflow to avoid paying for Actions minutes + a FlareSolverr
-# service container on every run). Fetches prices, bakes them into index.html,
-# and pushes straight to main -- Pages serves directly from main/root.
+# service container on every run). Fetches prices + local headlines, bakes
+# them into index.html/news.html, and pushes straight to main -- Pages
+# serves directly from main/root.
 set -euo pipefail
 
 SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
@@ -24,13 +25,21 @@ for i in $(seq 1 30); do
   sleep 2
 done
 
-FLARESOLVERR_URL="http://localhost:8191/v1" "${REPO_ROOT}/.venv/bin/python" scripts/fetch_prices.py >>"${LOG_FILE}" 2>&1
+# Each fetch leaves its own output files untouched on failure (see their
+# "No .../ returned" guards), so a failure in one must not block the other
+# from being committed -- hence the `|| log ...` instead of letting `set -e`
+# abort the whole script.
+FLARESOLVERR_URL="http://localhost:8191/v1" "${REPO_ROOT}/.venv/bin/python" scripts/fetch_prices.py >>"${LOG_FILE}" 2>&1 \
+  || log "fetch_prices.py failed, leaving prices.json/index.html untouched"
 
-git add prices.json index.html
+"${REPO_ROOT}/.venv/bin/python" scripts/fetch_news.py >>"${LOG_FILE}" 2>&1 \
+  || log "fetch_news.py failed, leaving news.json/news.html untouched"
+
+git add prices.json index.html news.json news.html
 if git diff --staged --quiet; then
   log "no changes, nothing to commit"
 else
-  git commit -q -m "chore: update gas prices [skip ci]"
+  git commit -q -m "chore: update gas prices + local news [skip ci]"
   git push origin main >>"${LOG_FILE}" 2>&1
-  log "pushed updated prices"
+  log "pushed updates"
 fi
