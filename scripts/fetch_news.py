@@ -1,9 +1,10 @@
-"""Fetch local North Idaho headlines and render a static news page.
+"""Fetch today's local North Idaho headlines and render a static news page.
 
 Run daily by scripts/publish.sh alongside fetch_prices.py. Pulls KREM 2's
 "local/idaho" RSS feed (Spokane CBS affiliate covering North Idaho,
-including Coeur d'Alene and Post Falls), takes the 5 most recent
-headlines, writes news.json, and bakes the result into news.html so the
+including Coeur d'Alene and Post Falls), takes up to 5 of today's
+headlines (in the Pacific timezone Kootenai County actually observes,
+not UTC), writes news.json, and bakes the result into news.html so the
 page needs no client-side JS to display correctly for a screenshot
 pipeline (same 800x480 e-paper canvas as index.html).
 """
@@ -17,9 +18,11 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from string import Template
 from urllib.request import Request, urlopen
+from zoneinfo import ZoneInfo
 
 FEED_URL = "https://www.krem.com/feeds/syndication/rss/news/local/idaho"
 SOURCE_NAME = "KREM 2 News"
+LOCAL_TZ = ZoneInfo("America/Los_Angeles")  # Kootenai County, ID observes Pacific Time
 TOP_N = 5
 REQUEST_TIMEOUT = 20
 
@@ -59,8 +62,10 @@ def fetch_headlines():
 
     root = ET.fromstring(raw)
     now = datetime.now(timezone.utc)
-    headlines = []
-    for item in root.findall(".//item")[:TOP_N]:
+    today_local = now.astimezone(LOCAL_TZ).date()
+
+    parsed = []
+    for item in root.findall(".//item"):
         title = (item.findtext("title") or "").strip()
         if not title:
             continue
@@ -68,15 +73,23 @@ def fetch_headlines():
         try:
             published = parsedate_to_datetime(pub_date_text)
         except (TypeError, ValueError):
-            published = now
+            continue
         if published.tzinfo is None:
             published = published.replace(tzinfo=timezone.utc)
+        parsed.append((published, title, item.findtext("link") or ""))
 
+    todays = [p for p in parsed if p[0].astimezone(LOCAL_TZ).date() == today_local]
+    # Fall back to the most recent items overall if nothing's posted yet
+    # today (e.g. early morning before the feed has an update).
+    source = todays if todays else parsed
+
+    headlines = []
+    for published, title, link in source[:TOP_N]:
         headlines.append(
             {
                 "headline": title,
                 "source": SOURCE_NAME,
-                "link": item.findtext("link") or "",
+                "link": link,
                 "published": published.isoformat(),
                 "time_ago": relative_time(published, now),
             }
