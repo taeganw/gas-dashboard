@@ -1,37 +1,35 @@
 {
-  "zipcodes": [
-    83854,
-    83815
-  ],
-  "updated": "2026-08-23 04:24 PM UTC",
+  "center": "83854",
+  "radius_miles": 5,
+  "updated": "2026-08-23 04:32 PM UTC",
   "stations": [
     {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 4.16,
-      "formatted_price": "$4.16",
-      "distance": null
+      "name": "Walmart",
+      "address": "3050 E Mullan Ave, Post Falls",
+      "price": 4.25,
+      "formatted_price": "$4.25",
+      "distance": 1.4
     },
     {
-      "name": "Maverik",
-      "address": "6415 North Ramsey Road, Coeur d Alene",
-      "price": 4.18,
-      "formatted_price": "$4.18",
-      "distance": null
+      "name": "Liberty",
+      "address": "6902 W Seltice Way, Post Falls",
+      "price": 4.3,
+      "formatted_price": "$4.30",
+      "distance": 4.9
     },
     {
-      "name": "Safeway",
-      "address": "121 W Neider Ave, Coeur d'Alene",
-      "price": 4.19,
-      "formatted_price": "$4.19",
-      "distance": null
+      "name": "76",
+      "address": "770 N ID-41, Post Falls",
+      "price": 4.39,
+      "formatted_price": "$4.39",
+      "distance": 2.0
     },
     {
-      "name": "Maverik",
-      "address": "5525 North Government Way, Coeur d'Alene",
-      "price": 4.23,
-      "formatted_price": "$4.23",
-      "distance": null
+      "name": "7-Eleven",
+      "address": "768 N Pleasant View Rd, Post Falls",
+      "price": 4.39,
+      "formatted_price": "$4.39",
+      "distance": 3.1
     }
   ]
 }

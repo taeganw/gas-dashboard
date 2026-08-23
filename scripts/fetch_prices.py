@@ -2,18 +2,22 @@
 
 Run daily by .github/workflows/update-prices.yml. Queries GasBuddy's public
 GraphQL endpoint via py-gasbuddy (no API key), picks the 4 cheapest regular
-stations, writes prices.json, and bakes the result into index.html so the
-page needs no client-side JS to display correctly for a screenshot pipeline.
+stations within a radius of CENTER, writes prices.json, and bakes the
+result into index.html so the page needs no client-side JS to display
+correctly for a screenshot pipeline.
 
 Uses a custom GraphQL query rather than py_gasbuddy's price_lookup_service:
 that library's built-in LOCATION_QUERY_PRICES doesn't request the station
 `name` field and its parser drops the `address` it does request, so every
 station comes back as "Unknown" with a blank address.
 
-GasBuddy's search has no radius parameter — it returns a fixed catchment
-around whatever zipcode/lat/lng you search, too small to span from Post
-Falls to the Costco in Coeur d'Alene (~6 miles) in one query. So we query
-multiple zipcodes and merge/dedupe the results by station id.
+GasBuddy's search has no radius parameter — each query returns a fixed
+catchment around one zipcode. To actually search a radius (see geo.py) we:
+  1. resolve CENTER (a zipcode or a free-form address) to lat/lon
+  2. find every zipcode whose centroid falls within RADIUS_MILES
+  3. query GasBuddy for each of those zipcodes and merge/dedupe by station id
+  4. drop any station whose own lat/lon falls outside RADIUS_MILES, since a
+     zipcode's area can extend beyond the radius even if its centroid doesn't
 """
 
 import asyncio
@@ -26,7 +30,11 @@ from string import Template
 
 from py_gasbuddy import GasBuddy
 
-ZIPCODES = [83854, 83815]  # Post Falls, ID + Coeur d'Alene, ID (covers the Costco)
+import geo
+
+CENTER = "83854"  # zipcode or free-form address, e.g. "355 E Neider Ave, Coeur d'Alene, ID"
+RADIUS_MILES = 8  # wide enough to reach the Costco in Coeur d'Alene (~7mi away)
+MAX_ZIPCODES = 20  # cap GasBuddy calls if a large radius pulls in many zipcodes
 LOOKUP_LIMIT = 15
 TOP_N = 4
 FLARESOLVERR_URL = os.environ.get("FLARESOLVERR_URL")  # e.g. http://localhost:8191/v1
@@ -36,7 +44,7 @@ STATION_QUERY = (
     "$lat: Float, $lng: Float, $maxAge: Int, $search: String) { "
     "locationBySearchTerm(lat: $lat, lng: $lng, search: $search) { "
     "stations(brandId: $brandId cursor: $cursor fuel: $fuel lat: $lat lng: $lng maxAge: $maxAge) { "
-    "results { id name address { line1 locality } "
+    "results { id name address { line1 locality } latitude longitude "
     "prices { credit { price } fuelProduct } } } } }"
 )
 
@@ -72,9 +80,28 @@ async def fetch_zipcode(gb, zipcode):
 
 
 async def fetch_stations():
+    zip_centroids = await geo.load_zip_centroids()
+    center_lat, center_lon = await geo.resolve_center(CENTER, zip_centroids)
+
+    zipcodes = geo.zips_within_radius(center_lat, center_lon, RADIUS_MILES, zip_centroids)
+    if not zipcodes:
+        zipcodes = [CENTER] if geo.ZIPCODE_RE.match(CENTER) else []
+    if len(zipcodes) > MAX_ZIPCODES:
+        zipcodes.sort(
+            key=lambda z: geo.haversine_miles(center_lat, center_lon, *zip_centroids[z])
+        )
+        print(
+            f"{len(zipcodes)} zipcodes within {RADIUS_MILES}mi, "
+            f"capping to the nearest {MAX_ZIPCODES}",
+            file=sys.stderr,
+        )
+        zipcodes = zipcodes[:MAX_ZIPCODES]
+
     gb = GasBuddy(solver_url=FLARESOLVERR_URL) if FLARESOLVERR_URL else GasBuddy()
     results_by_id = {}
-    for zipcode in ZIPCODES:
+    for i, zipcode in enumerate(zipcodes):
+        if i:
+            await asyncio.sleep(1)  # avoid tripping GasBuddy's Cloudflare rate limit
         for station in await fetch_zipcode(gb, zipcode):
             results_by_id[station["id"]] = station
 
@@ -96,9 +123,15 @@ async def fetch_stations():
                 "address": f"{line1}, {locality}" if locality else line1,
                 "price": float(price),
                 "formatted_price": f"${price:.2f}",
-                "distance": None,
+                "latitude": station.get("latitude"),
+                "longitude": station.get("longitude"),
             }
         )
+
+    stations = geo.stations_within_radius(stations, center_lat, center_lon, RADIUS_MILES)
+    for s in stations:
+        del s["latitude"]
+        del s["longitude"]
     stations.sort(key=lambda s: s["price"])
     return stations[:TOP_N]
 
@@ -128,7 +161,15 @@ def main():
     updated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %I:%M %p UTC")
 
     PRICES_JSON.write_text(
-        json.dumps({"zipcodes": ZIPCODES, "updated": updated_at, "stations": stations}, indent=2)
+        json.dumps(
+            {
+                "center": CENTER,
+                "radius_miles": RADIUS_MILES,
+                "updated": updated_at,
+                "stations": stations,
+            },
+            indent=2,
+        )
     )
     render_html(stations, updated_at)
     print(f"Wrote {len(stations)} stations to prices.json and index.html")
