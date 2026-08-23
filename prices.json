@@ -1,0 +1,34 @@
+{
+  "zipcode": 83854,
+  "updated": "2026-08-23 03:51 PM UTC",
+  "stations": [
+    {
+      "name": "Unknown",
+      "address": "",
+      "price": 4.25,
+      "formatted_price": "$4.25",
+      "distance": null
+    },
+    {
+      "name": "Unknown",
+      "address": "",
+      "price": 4.3,
+      "formatted_price": "$4.30",
+      "distance": null
+    },
+    {
+      "name": "Unknown",
+      "address": "",
+      "price": 4.3,
+      "formatted_price": "$4.30",
+      "distance": null
+    },
+    {
+      "name": "Unknown",
+      "address": "",
+      "price": 4.3,
+      "formatted_price": "$4.30",
+      "distance": null
+    }
+  ]
+}
