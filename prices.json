@@ -1,31 +1,31 @@
 {
   "zipcode": 83854,
-  "updated": "2026-08-23 03:51 PM UTC",
+  "updated": "2026-08-23 04:21 PM UTC",
   "stations": [
     {
-      "name": "Unknown",
-      "address": "",
+      "name": "Walmart",
+      "address": "3050 E Mullan Ave, Post Falls",
       "price": 4.25,
       "formatted_price": "$4.25",
       "distance": null
     },
     {
-      "name": "Unknown",
-      "address": "",
+      "name": "Amerimart",
+      "address": "7035 W Seltice Way, Post Falls",
       "price": 4.3,
       "formatted_price": "$4.30",
       "distance": null
     },
     {
-      "name": "Unknown",
-      "address": "",
+      "name": "Liberty",
+      "address": "6902 W Seltice Way, Post Falls",
       "price": 4.3,
       "formatted_price": "$4.30",
       "distance": null
     },
     {
-      "name": "Unknown",
-      "address": "",
+      "name": "A-1 Smoke Shop",
+      "address": "7200 W Seltice Way, Post Falls",
       "price": 4.3,
       "formatted_price": "$4.30",
       "distance": null
