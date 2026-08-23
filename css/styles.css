@@ -29,19 +29,19 @@ header {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
-  border-bottom: 4px solid #000;
-  padding-bottom: 12px;
-  margin-bottom: 16px;
+  border-bottom: 3px solid #000;
+  padding-bottom: 8px;
+  margin-bottom: 10px;
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 700;
   letter-spacing: -0.5px;
 }
 
 .location {
-  font-size: 22px;
+  font-size: 17px;
   font-weight: 500;
 }
 
@@ -50,14 +50,15 @@ h1 {
   flex: 1;
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 4px;
+  min-height: 0;
 }
 
 .row {
   display: flex;
   align-items: center;
-  border-bottom: 2px solid #000;
-  padding-bottom: 14px;
+  border-bottom: 1px solid #000;
+  padding-bottom: 4px;
 }
 
 .row:last-child {
@@ -65,9 +66,9 @@ h1 {
 }
 
 .rank {
-  font-size: 34px;
+  font-size: 22px;
   font-weight: 700;
-  width: 56px;
+  width: 38px;
   flex-shrink: 0;
 }
 
@@ -79,7 +80,7 @@ h1 {
 }
 
 .name {
-  font-size: 28px;
+  font-size: 19px;
   font-weight: 700;
   white-space: nowrap;
   overflow: hidden;
@@ -87,7 +88,7 @@ h1 {
 }
 
 .address {
-  font-size: 18px;
+  font-size: 13px;
   font-weight: 400;
   color: #444;
   white-space: nowrap;
@@ -96,17 +97,17 @@ h1 {
 }
 
 .price {
-  font-size: 46px;
+  font-size: 28px;
   font-weight: 700;
   flex-shrink: 0;
-  margin-left: 16px;
+  margin-left: 12px;
 }
 
 footer {
-  margin-top: 16px;
-  padding-top: 10px;
+  margin-top: 8px;
+  padding-top: 6px;
   border-top: 2px solid #000;
-  font-size: 16px;
+  font-size: 13px;
   text-align: center;
   color: #333;
 }

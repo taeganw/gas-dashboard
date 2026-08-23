@@ -36,7 +36,7 @@ CENTER = "83854"  # zipcode or free-form address, e.g. "355 E Neider Ave, Coeur 
 RADIUS_MILES = 8  # wide enough to reach the Costco in Coeur d'Alene (~7mi away)
 MAX_ZIPCODES = 20  # cap GasBuddy calls if a large radius pulls in many zipcodes
 LOOKUP_LIMIT = 15
-TOP_N = 4
+TOP_N = 7
 FLARESOLVERR_URL = os.environ.get("FLARESOLVERR_URL")  # e.g. http://localhost:8191/v1
 
 STATION_QUERY = (
