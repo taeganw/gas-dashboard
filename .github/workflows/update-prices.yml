@@ -1,0 +1,54 @@
+name: Update Gas Prices
+
+on:
+  schedule:
+    # once a day
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    services:
+      flaresolverr:
+        image: ghcr.io/flaresolverr/flaresolverr:latest
+        ports:
+          - 8191:8191
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Wait for FlareSolverr
+        run: |
+          for i in $(seq 1 30); do
+            curl -sf http://localhost:8191/health && exit 0
+            sleep 2
+          done
+          echo "FlareSolverr did not become healthy in time" >&2
+          exit 1
+
+      - name: Fetch prices and render page
+        env:
+          FLARESOLVERR_URL: http://localhost:8191/v1
+        run: python scripts/fetch_prices.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add prices.json index.html
+          git diff --staged --quiet || git commit -m "chore: update gas prices [skip ci]"
+          git push

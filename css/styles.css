@@ -1,0 +1,112 @@
+/* Fixed 800x480 canvas for the reTerminal E1001 (7.5" monochrome e-paper).
+   Screenshot-only: no color, no animation, no shadows/gradients — flat
+   black-on-white only, since e-ink has no meaningful hover/transition. */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 800px;
+  height: 480px;
+  background: #fff;
+  color: #000;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  overflow: hidden;
+}
+
+.screen {
+  width: 800px;
+  height: 480px;
+  padding: 24px 32px;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  border-bottom: 4px solid #000;
+  padding-bottom: 12px;
+  margin-bottom: 16px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.location {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.rows {
+  list-style: none;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid #000;
+  padding-bottom: 14px;
+}
+
+.row:last-child {
+  border-bottom: none;
+}
+
+.rank {
+  font-size: 34px;
+  font-weight: 700;
+  width: 56px;
+  flex-shrink: 0;
+}
+
+.details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.name {
+  font-size: 28px;
+  font-weight: 700;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.address {
+  font-size: 18px;
+  font-weight: 400;
+  color: #444;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.price {
+  font-size: 46px;
+  font-weight: 700;
+  flex-shrink: 0;
+  margin-left: 16px;
+}
+
+footer {
+  margin-top: 16px;
+  padding-top: 10px;
+  border-top: 2px solid #000;
+  font-size: 16px;
+  text-align: center;
+  color: #333;
+}
