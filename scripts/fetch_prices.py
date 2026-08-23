@@ -9,6 +9,11 @@ Uses a custom GraphQL query rather than py_gasbuddy's price_lookup_service:
 that library's built-in LOCATION_QUERY_PRICES doesn't request the station
 `name` field and its parser drops the `address` it does request, so every
 station comes back as "Unknown" with a blank address.
+
+GasBuddy's search has no radius parameter — it returns a fixed catchment
+around whatever zipcode/lat/lng you search, too small to span from Post
+Falls to the Costco in Coeur d'Alene (~6 miles) in one query. So we query
+multiple zipcodes and merge/dedupe the results by station id.
 """
 
 import asyncio
@@ -21,7 +26,7 @@ from string import Template
 
 from py_gasbuddy import GasBuddy
 
-ZIPCODE = 83854  # Post Falls, ID
+ZIPCODES = [83854, 83815]  # Post Falls, ID + Coeur d'Alene, ID (covers the Costco)
 LOOKUP_LIMIT = 15
 TOP_N = 4
 FLARESOLVERR_URL = os.environ.get("FLARESOLVERR_URL")  # e.g. http://localhost:8191/v1
@@ -53,21 +58,28 @@ ROW_TEMPLATE = Template(
 )
 
 
-async def fetch_stations():
-    gb = GasBuddy(solver_url=FLARESOLVERR_URL) if FLARESOLVERR_URL else GasBuddy()
+async def fetch_zipcode(gb, zipcode):
     query = {
         "operationName": "LocationBySearchTerm",
         "query": STATION_QUERY,
-        "variables": {"maxAge": 0, "search": str(ZIPCODE)},
+        "variables": {"maxAge": 0, "search": str(zipcode)},
     }
     response = await gb.process_request(query)
     if "error" in response or "errors" in response:
-        print(f"GasBuddy API error: {response}", file=sys.stderr)
+        print(f"GasBuddy API error for {zipcode}: {response}", file=sys.stderr)
         return []
+    return response["data"]["locationBySearchTerm"]["stations"]["results"][:LOOKUP_LIMIT]
 
-    results = response["data"]["locationBySearchTerm"]["stations"]["results"]
+
+async def fetch_stations():
+    gb = GasBuddy(solver_url=FLARESOLVERR_URL) if FLARESOLVERR_URL else GasBuddy()
+    results_by_id = {}
+    for zipcode in ZIPCODES:
+        for station in await fetch_zipcode(gb, zipcode):
+            results_by_id[station["id"]] = station
+
     stations = []
-    for station in results[:LOOKUP_LIMIT]:
+    for station in results_by_id.values():
         regular = next(
             (p for p in station.get("prices", []) if p.get("fuelProduct") == "regular_gas"),
             None,
@@ -116,7 +128,7 @@ def main():
     updated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %I:%M %p UTC")
 
     PRICES_JSON.write_text(
-        json.dumps({"zipcode": ZIPCODE, "updated": updated_at, "stations": stations}, indent=2)
+        json.dumps({"zipcodes": ZIPCODES, "updated": updated_at, "stations": stations}, indent=2)
     )
     render_html(stations, updated_at)
     print(f"Wrote {len(stations)} stations to prices.json and index.html")

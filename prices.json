@@ -1,33 +1,36 @@
 {
-  "zipcode": 83854,
-  "updated": "2026-08-23 04:21 PM UTC",
+  "zipcodes": [
+    83854,
+    83815
+  ],
+  "updated": "2026-08-23 04:24 PM UTC",
   "stations": [
     {
-      "name": "Walmart",
-      "address": "3050 E Mullan Ave, Post Falls",
-      "price": 4.25,
-      "formatted_price": "$4.25",
+      "name": "Costco",
+      "address": "355 E Neider Ave, Coeur d'Alene",
+      "price": 4.16,
+      "formatted_price": "$4.16",
       "distance": null
     },
     {
-      "name": "Amerimart",
-      "address": "7035 W Seltice Way, Post Falls",
-      "price": 4.3,
-      "formatted_price": "$4.30",
+      "name": "Maverik",
+      "address": "6415 North Ramsey Road, Coeur d Alene",
+      "price": 4.18,
+      "formatted_price": "$4.18",
       "distance": null
     },
     {
-      "name": "Liberty",
-      "address": "6902 W Seltice Way, Post Falls",
-      "price": 4.3,
-      "formatted_price": "$4.30",
+      "name": "Safeway",
+      "address": "121 W Neider Ave, Coeur d'Alene",
+      "price": 4.19,
+      "formatted_price": "$4.19",
       "distance": null
     },
     {
-      "name": "A-1 Smoke Shop",
-      "address": "7200 W Seltice Way, Post Falls",
-      "price": 4.3,
-      "formatted_price": "$4.30",
+      "name": "Maverik",
+      "address": "5525 North Government Way, Coeur d'Alene",
+      "price": 4.23,
+      "formatted_price": "$4.23",
       "distance": null
     }
   ]
