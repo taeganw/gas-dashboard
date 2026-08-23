@@ -1,6 +1,7 @@
-/* Fixed 800x480 canvas for the reTerminal E1001 (7.5" monochrome e-paper).
-   Screenshot-only: no color, no animation, no shadows/gradients — flat
-   black-on-white only, since e-ink has no meaningful hover/transition. */
+/* Fixed 480x800 portrait canvas for the reTerminal E1001 (7.5" monochrome
+   e-paper), mounted standing up. Screenshot-only: no color, no animation,
+   no shadows/gradients — flat black-on-white only, since e-ink has no
+   meaningful hover/transition. */
 
 * {
   margin: 0;
@@ -9,8 +10,8 @@
 }
 
 html, body {
-  width: 800px;
-  height: 480px;
+  width: 480px;
+  height: 800px;
   background: #fff;
   color: #000;
   font-family: "Helvetica Neue", Arial, sans-serif;
@@ -18,31 +19,32 @@ html, body {
 }
 
 .screen {
-  width: 800px;
-  height: 480px;
-  padding: 24px 32px;
+  width: 480px;
+  height: 800px;
+  padding: 28px 24px;
   display: flex;
   flex-direction: column;
 }
 
 header {
   display: flex;
-  align-items: baseline;
-  justify-content: space-between;
+  flex-direction: column;
   border-bottom: 3px solid #000;
-  padding-bottom: 8px;
-  margin-bottom: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 14px;
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 34px;
   font-weight: 700;
   letter-spacing: -0.5px;
 }
 
 .location {
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 500;
+  color: #333;
+  margin-top: 2px;
 }
 
 .rows {
@@ -50,7 +52,8 @@ h1 {
   flex: 1;
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  justify-content: space-between;
+  gap: 10px;
   min-height: 0;
 }
 
@@ -58,7 +61,7 @@ h1 {
   display: flex;
   align-items: center;
   border-bottom: 1px solid #000;
-  padding-bottom: 4px;
+  padding-bottom: 10px;
 }
 
 .row:last-child {
@@ -66,9 +69,9 @@ h1 {
 }
 
 .rank {
-  font-size: 22px;
+  font-size: 26px;
   font-weight: 700;
-  width: 38px;
+  width: 40px;
   flex-shrink: 0;
 }
 
@@ -80,7 +83,7 @@ h1 {
 }
 
 .name {
-  font-size: 19px;
+  font-size: 22px;
   font-weight: 700;
   white-space: nowrap;
   overflow: hidden;
@@ -88,7 +91,7 @@ h1 {
 }
 
 .address {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 400;
   color: #444;
   white-space: nowrap;
@@ -97,17 +100,17 @@ h1 {
 }
 
 .price {
-  font-size: 28px;
+  font-size: 32px;
   font-weight: 700;
   flex-shrink: 0;
-  margin-left: 12px;
+  margin-left: 10px;
 }
 
 footer {
-  margin-top: 8px;
-  padding-top: 6px;
+  margin-top: 10px;
+  padding-top: 8px;
   border-top: 2px solid #000;
-  font-size: 13px;
+  font-size: 14px;
   text-align: center;
   color: #333;
 }
