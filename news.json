@@ -1,41 +1,13 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-08-23 06:26 PM UTC",
+  "updated": "2026-08-24 06:00 AM UTC",
   "headlines": [
     {
-      "headline": "Forest Service invites Idahoans to craft ornaments for US Capitol Christmas tree",
+      "headline": "Evacuations downgraded to Level 1 for the Upper Smith Creek Fire in Boundary County",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/forest-service-invites-idahoans-craft-ornaments-us-capitol-christmas-tree/277-72edc94c-b3a8-47ec-808d-81f2ccde3c89",
-      "published": "2026-08-21T21:04:09+00:00",
-      "time_ago": "1d ago"
-    },
-    {
-      "headline": "Idaho's Farming Future: University of Idaho studying challenges to help shape resilient agricultural practices",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/university-idaho-challenges-help-shape-resilient-agricultural-practices/277-2db7406c-ca8a-4277-82fe-c884569405f5",
-      "published": "2026-08-21T17:53:57+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "Young osprey, injured in eagle attack, takes flight once more",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/young-osprey-injured-in-eagle-attack-takes-flight-once-more/293-be5ed05d-5693-4050-ba28-423fb00dca7e",
-      "published": "2026-08-21T17:44:06+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "Sandpoint council addresses parking confusion, confirms kiosk removal",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/sandpoint-council-addresses-parking-confusion-confirms-kiosk-removal/293-2d03589c-c146-47b2-9097-2d152b7a2c32",
-      "published": "2026-08-21T17:28:37+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "North Idaho leaders gather to discuss housing affordability",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/north-idaho-leaders-housing-affordability/293-91625a42-8926-4722-9b25-80c6fc5d13e2",
-      "published": "2026-08-21T17:06:49+00:00",
-      "time_ago": "2d ago"
+      "link": "https://www.krem.com/article/news/local/wildfire/upper-smith-creek-fire-boundary-county/293-9d470046-1194-4761-aa92-08b5cf94dd24",
+      "published": "2026-08-23T21:20:25+00:00",
+      "time_ago": "8h ago"
     }
   ]
 }
