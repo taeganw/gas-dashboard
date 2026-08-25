@@ -1,22 +1,8 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-08-24 06:00 AM UTC",
+  "updated": "2026-08-25 06:00 AM UTC",
   "stations": [
-    {
-      "name": "Maverik",
-      "address": "6415 North Ramsey Road, Coeur d Alene",
-      "price": 4.18,
-      "formatted_price": "$4.18",
-      "distance": 5.9
-    },
-    {
-      "name": "Safeway",
-      "address": "121 W Neider Ave, Coeur d'Alene",
-      "price": 4.19,
-      "formatted_price": "$4.19",
-      "distance": 7.0
-    },
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
@@ -25,18 +11,11 @@
       "distance": 7.1
     },
     {
-      "name": "Maverik",
-      "address": "5525 North Government Way, Coeur d'Alene",
+      "name": "Safeway",
+      "address": "121 W Neider Ave, Coeur d'Alene",
       "price": 4.19,
       "formatted_price": "$4.19",
-      "distance": 6.9
-    },
-    {
-      "name": "7-Eleven",
-      "address": "114 E Appleway Ave, Coeur d'Alene",
-      "price": 4.23,
-      "formatted_price": "$4.23",
-      "distance": 7.1
+      "distance": 7.0
     },
     {
       "name": "Walmart",
@@ -51,6 +30,27 @@
       "price": 4.27,
       "formatted_price": "$4.27",
       "distance": 7.3
+    },
+    {
+      "name": "7-Eleven",
+      "address": "114 E Appleway Ave, Coeur d'Alene",
+      "price": 4.28,
+      "formatted_price": "$4.28",
+      "distance": 7.1
+    },
+    {
+      "name": "Exxon",
+      "address": "201 W Appleway Ave, Coeur d'Alene",
+      "price": 4.28,
+      "formatted_price": "$4.28",
+      "distance": 7.0
+    },
+    {
+      "name": "Cenex",
+      "address": "5831 N Government Way, Coeur d'Alene",
+      "price": 4.29,
+      "formatted_price": "$4.29",
+      "distance": 6.9
     }
   ]
 }
