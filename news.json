@@ -1,34 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-08-25 06:00 AM UTC",
+  "updated": "2026-08-26 06:00 AM UTC",
   "headlines": [
     {
-      "headline": "North Idaho Fairgoers sport shear mullet style at contest",
+      "headline": "AG Labrador announces $29.6M settlement with Glenmark over drug price conspiracy",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/north-idaho-fairgoers-mullet-contest/293-6929d085-4b86-4eed-9c13-9ccadba19281",
-      "published": "2026-08-24T17:49:38+00:00",
-      "time_ago": "12h ago"
+      "link": "https://www.krem.com/article/news/local/idaho/ag-labrador-announces-296m-settlement-with-glenmark-over-drug-price-conspiracy/293-e9b81238-5e7d-4018-bd61-5f6f549b2cbf",
+      "published": "2026-08-26T00:33:25+00:00",
+      "time_ago": "5h ago"
     },
     {
-      "headline": "Bunker Hill Mining Corp. to acquire Silver47 in stock-swap deal",
+      "headline": "'Dead people are not home decor': New law in Idaho targets the sale of human remains",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/bunker-hill-acquire-silver47-stock-swap-deal/293-8b1845aa-ae0f-4d83-b676-35b0fac59f30",
-      "published": "2026-08-24T17:46:07+00:00",
-      "time_ago": "12h ago"
+      "link": "https://www.krem.com/article/news/local/idaho/new-law-idaho-targets-sale-of-human-remains/277-e61e41af-2529-4aab-bb9a-059c6a2e3ed2",
+      "published": "2026-08-25T23:58:54+00:00",
+      "time_ago": "6h ago"
     },
     {
-      "headline": "Sandpoint City Council adopts annual budget, discusses wastewater treatment plant construction",
+      "headline": "Idaho expands public lands recreation access with new state-federal agreements",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/sandpoint-city-council-annual-budget-wastewater-treatment-plant-construction/293-0f8f63a7-7a76-4986-8e45-e370809caa4e",
-      "published": "2026-08-24T17:42:13+00:00",
-      "time_ago": "12h ago"
+      "link": "https://www.krem.com/article/news/local/idaho/idaho-forest-service-partnership-recreation-opportunities/277-0561bfed-3faf-4b40-8fad-163fa6e30967",
+      "published": "2026-08-25T22:05:34+00:00",
+      "time_ago": "7h ago"
     },
     {
-      "headline": "Idaho tackles rural healthcare crisis with $1 billion federal investment",
+      "headline": "Idaho State Police break ground on $29 million forensic lab",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/idaho-tackles-rural-healthcare-crisis-1-billion-federal-investment/277-6cd8119f-5c7d-4d28-b622-be348314d4bb",
-      "published": "2026-08-24T12:43:56+00:00",
-      "time_ago": "17h ago"
+      "link": "https://www.krem.com/article/news/local/idaho/isp-breaking-ground-29-million-forensic-lab/277-14bc84e6-8750-45a7-a65c-07cc648eea41",
+      "published": "2026-08-25T22:04:23+00:00",
+      "time_ago": "7h ago"
+    },
+    {
+      "headline": "North Idaho first responders to receive Idaho Medal of Honor for actions during Canfield Mountain attack",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/north-idaho-first-responders-to-receive-idaho-medal-of-honor-for-actions-during-canfield-mountain-attack/293-0892dc66-32fa-4976-8b91-3d062e037672",
+      "published": "2026-08-25T20:26:01+00:00",
+      "time_ago": "9h ago"
     }
   ]
 }

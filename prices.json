@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-08-25 06:00 AM UTC",
+  "updated": "2026-08-26 06:00 AM UTC",
   "stations": [
     {
       "name": "Costco",
@@ -11,20 +11,6 @@
       "distance": 7.1
     },
     {
-      "name": "Safeway",
-      "address": "121 W Neider Ave, Coeur d'Alene",
-      "price": 4.19,
-      "formatted_price": "$4.19",
-      "distance": 7.0
-    },
-    {
-      "name": "Walmart",
-      "address": "3050 E Mullan Ave, Post Falls",
-      "price": 4.25,
-      "formatted_price": "$4.25",
-      "distance": 1.4
-    },
-    {
       "name": "A & D Mini Mart",
       "address": "356 E Appleway Ave, Coeur d'Alene",
       "price": 4.27,
@@ -32,18 +18,11 @@
       "distance": 7.3
     },
     {
-      "name": "7-Eleven",
-      "address": "114 E Appleway Ave, Coeur d'Alene",
-      "price": 4.28,
-      "formatted_price": "$4.28",
-      "distance": 7.1
-    },
-    {
-      "name": "Exxon",
-      "address": "201 W Appleway Ave, Coeur d'Alene",
-      "price": 4.28,
-      "formatted_price": "$4.28",
-      "distance": 7.0
+      "name": "Walmart",
+      "address": "3050 E Mullan Ave, Post Falls",
+      "price": 4.27,
+      "formatted_price": "$4.27",
+      "distance": 1.4
     },
     {
       "name": "Cenex",
@@ -51,6 +30,27 @@
       "price": 4.29,
       "formatted_price": "$4.29",
       "distance": 6.9
+    },
+    {
+      "name": "Fred Meyer",
+      "address": "560 W Kathleen Ave, Coeur d'Alene",
+      "price": 4.29,
+      "formatted_price": "$4.29",
+      "distance": 6.6
+    },
+    {
+      "name": "7-Eleven",
+      "address": "114 E Appleway Ave, Coeur d'Alene",
+      "price": 4.33,
+      "formatted_price": "$4.33",
+      "distance": 7.1
+    },
+    {
+      "name": "Exxon",
+      "address": "1600 W Prairie Ave, Coeur d'Alene",
+      "price": 4.34,
+      "formatted_price": "$4.34",
+      "distance": 6.1
     }
   ]
 }
