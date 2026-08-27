@@ -1,13 +1,13 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-08-26 06:00 AM UTC",
+  "updated": "2026-08-27 06:00 AM UTC",
   "stations": [
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 4.19,
-      "formatted_price": "$4.19",
+      "price": 4.17,
+      "formatted_price": "$4.17",
       "distance": 7.1
     },
     {
@@ -18,39 +18,39 @@
       "distance": 7.3
     },
     {
-      "name": "Walmart",
-      "address": "3050 E Mullan Ave, Post Falls",
-      "price": 4.27,
-      "formatted_price": "$4.27",
-      "distance": 1.4
-    },
-    {
-      "name": "Cenex",
-      "address": "5831 N Government Way, Coeur d'Alene",
-      "price": 4.29,
-      "formatted_price": "$4.29",
-      "distance": 6.9
-    },
-    {
-      "name": "Fred Meyer",
-      "address": "560 W Kathleen Ave, Coeur d'Alene",
-      "price": 4.29,
-      "formatted_price": "$4.29",
-      "distance": 6.6
-    },
-    {
       "name": "7-Eleven",
       "address": "114 E Appleway Ave, Coeur d'Alene",
-      "price": 4.33,
-      "formatted_price": "$4.33",
+      "price": 4.32,
+      "formatted_price": "$4.32",
       "distance": 7.1
     },
     {
+      "name": "Maverik",
+      "address": "6415 North Ramsey Road, Coeur d Alene",
+      "price": 4.32,
+      "formatted_price": "$4.32",
+      "distance": 5.9
+    },
+    {
+      "name": "Maverik",
+      "address": "5525 North Government Way, Coeur d'Alene",
+      "price": 4.32,
+      "formatted_price": "$4.32",
+      "distance": 6.9
+    },
+    {
       "name": "Exxon",
-      "address": "1600 W Prairie Ave, Coeur d'Alene",
+      "address": "350 W Appleway Ave, Coeur d'Alene",
+      "price": 4.33,
+      "formatted_price": "$4.33",
+      "distance": 6.8
+    },
+    {
+      "name": "Amerimart",
+      "address": "7035 W Seltice Way, Post Falls",
       "price": 4.34,
       "formatted_price": "$4.34",
-      "distance": 6.1
+      "distance": 5.0
     }
   ]
 }
