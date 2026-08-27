@@ -148,3 +148,47 @@ footer {
   color: #444;
   margin-top: 3px;
 }
+
+/* Trends page: a current-price banner above the .rows list, then one row
+   per comparison window (week/month/year). Monochrome like the rest of the
+   e-ink canvas, so direction is conveyed with arrow glyphs, not color. */
+
+.current-price {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 10px 4px;
+  margin-bottom: 6px;
+  border-bottom: 1px solid #000;
+}
+
+.current-label {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.current-value {
+  font-size: 34px;
+  font-weight: 700;
+}
+
+.trend-rows {
+  justify-content: space-between;
+}
+
+.trend-rows .row {
+  align-items: center;
+  padding-bottom: 8px;
+}
+
+.trend-rows .name {
+  font-size: 21px;
+}
+
+.trend-rows .address {
+  font-size: 14px;
+}
+
+.trend-rows .price {
+  font-size: 21px;
+}

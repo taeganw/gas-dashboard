@@ -1,0 +1,18 @@
+{
+  "updated": "2026-08-27 06:41 PM UTC",
+  "current_price": 4.17,
+  "trends": [
+    {
+      "label": "This Week",
+      "available": false
+    },
+    {
+      "label": "This Month",
+      "available": false
+    },
+    {
+      "label": "This Year",
+      "available": false
+    }
+  ]
+}

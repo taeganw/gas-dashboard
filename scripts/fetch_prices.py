@@ -50,6 +50,7 @@ STATION_QUERY = (
 
 ROOT = Path(__file__).resolve().parent.parent
 PRICES_JSON = ROOT / "prices.json"
+HISTORY_JSON = ROOT / "history.json"
 TEMPLATE_HTML = ROOT / "scripts" / "template.html"
 OUTPUT_HTML = ROOT / "index.html"
 
@@ -136,6 +137,16 @@ async def fetch_stations():
     return stations[:TOP_N]
 
 
+def record_history(date_str, price):
+    """Append/replace today's cheapest price in the running daily log that
+    scripts/fetch_trends.py reads to compute week/month/year price changes."""
+    history = json.loads(HISTORY_JSON.read_text()) if HISTORY_JSON.exists() else []
+    history = [h for h in history if h["date"] != date_str]
+    history.append({"date": date_str, "price": price})
+    history.sort(key=lambda h: h["date"])
+    HISTORY_JSON.write_text(json.dumps(history, indent=2))
+
+
 def render_html(stations, updated_at):
     rows_html = "".join(
         ROW_TEMPLATE.substitute(
@@ -158,7 +169,9 @@ def main():
         print("No stations returned — leaving existing index.html/prices.json untouched.", file=sys.stderr)
         sys.exit(1)
 
-    updated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %I:%M %p UTC")
+    now = datetime.now(timezone.utc)
+    updated_at = now.strftime("%Y-%m-%d %I:%M %p UTC")
+    record_history(now.strftime("%Y-%m-%d"), stations[0]["price"])
 
     PRICES_JSON.write_text(
         json.dumps(

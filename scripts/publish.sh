@@ -35,11 +35,16 @@ FLARESOLVERR_URL="http://localhost:8191/v1" "${REPO_ROOT}/.venv/bin/python" scri
 "${REPO_ROOT}/.venv/bin/python" scripts/fetch_news.py >>"${LOG_FILE}" 2>&1 \
   || log "fetch_news.py failed, leaving news.json/news.html untouched"
 
-git add prices.json index.html news.json news.html
+# Reads history.json (written by fetch_prices.py above) — no network calls,
+# so only worth running if that succeeded and left fresh history behind.
+"${REPO_ROOT}/.venv/bin/python" scripts/fetch_trends.py >>"${LOG_FILE}" 2>&1 \
+  || log "fetch_trends.py failed, leaving trends.json/trends.html untouched"
+
+git add prices.json index.html news.json news.html history.json trends.json trends.html
 if git diff --staged --quiet; then
   log "no changes, nothing to commit"
 else
-  git commit -q -m "chore: update gas prices + local news [skip ci]"
+  git commit -q -m "chore: update gas prices + local news + trends [skip ci]"
   git push origin main >>"${LOG_FILE}" 2>&1
   log "pushed updates"
 fi
