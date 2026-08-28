@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-08-27 06:00 AM UTC",
+  "updated": "2026-08-28 06:00 AM UTC",
   "stations": [
     {
       "name": "Costco",
@@ -18,6 +18,13 @@
       "distance": 7.3
     },
     {
+      "name": "Maverik",
+      "address": "6415 North Ramsey Road, Coeur d Alene",
+      "price": 4.29,
+      "formatted_price": "$4.29",
+      "distance": 5.9
+    },
+    {
       "name": "7-Eleven",
       "address": "114 E Appleway Ave, Coeur d'Alene",
       "price": 4.32,
@@ -25,11 +32,11 @@
       "distance": 7.1
     },
     {
-      "name": "Maverik",
-      "address": "6415 North Ramsey Road, Coeur d Alene",
+      "name": "Circle K",
+      "address": "312 W Haycraft Ave, Coeur d'Alene",
       "price": 4.32,
       "formatted_price": "$4.32",
-      "distance": 5.9
+      "distance": 6.8
     },
     {
       "name": "Maverik",
@@ -44,13 +51,6 @@
       "price": 4.33,
       "formatted_price": "$4.33",
       "distance": 6.8
-    },
-    {
-      "name": "Amerimart",
-      "address": "7035 W Seltice Way, Post Falls",
-      "price": 4.34,
-      "formatted_price": "$4.34",
-      "distance": 5.0
     }
   ]
 }
