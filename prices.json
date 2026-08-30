@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-08-29 06:00 AM UTC",
+  "updated": "2026-08-30 06:00 AM UTC",
   "stations": [
     {
       "name": "Costco",
@@ -16,6 +16,13 @@
       "price": 4.27,
       "formatted_price": "$4.27",
       "distance": 7.3
+    },
+    {
+      "name": "7-Eleven",
+      "address": "114 E Appleway Ave, Coeur d'Alene",
+      "price": 4.29,
+      "formatted_price": "$4.29",
+      "distance": 7.1
     },
     {
       "name": "Maverik",
@@ -39,18 +46,11 @@
       "distance": 6.9
     },
     {
-      "name": "7-Eleven",
-      "address": "114 E Appleway Ave, Coeur d'Alene",
-      "price": 4.32,
-      "formatted_price": "$4.32",
-      "distance": 7.1
-    },
-    {
-      "name": "Walmart",
-      "address": "3050 E Mullan Ave, Post Falls",
+      "name": "Mobil",
+      "address": "198 W Ironwood Dr, Coeur d'Alene",
       "price": 4.34,
       "formatted_price": "$4.34",
-      "distance": 1.4
+      "distance": 7.1
     }
   ]
 }

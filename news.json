@@ -1,41 +1,20 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-08-29 06:00 AM UTC",
+  "updated": "2026-08-30 06:00 AM UTC",
   "headlines": [
     {
-      "headline": "Idaho High School Football Week Two Scoreboard",
+      "headline": "Level 1 (Get Ready) evacuations for Dudley Fire near Wallace",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/sports/high-school/hs-football/idaho-high-school-football-week-two-scoreboard/293-5a5498ae-08db-4373-8a51-0cbbc0c910be",
-      "published": "2026-08-29T05:50:27+00:00",
-      "time_ago": "9m ago"
+      "link": "https://www.krem.com/article/news/local/wildfire/dudley-fire-near-wallace-idaho/293-5269ab13-21cf-4ff0-8739-6f7225ba2746",
+      "published": "2026-08-30T00:48:51+00:00",
+      "time_ago": "5h ago"
     },
     {
-      "headline": "North Idaho College clinic offers free dental care to underserved kids",
+      "headline": "Evacuations downgraded to Level 1 for the Upper Smith Creek Fire in Boundary County",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/north-idaho-college-clinic-free-dental-care-kids/293-b1891d1d-110d-4bfe-b4d2-43131dc83cbe",
-      "published": "2026-08-28T17:29:42+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "headline": "Shoshone County sets hearing for proposed $18.5M budget",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/shoshone-county-hearing-proposed-budget/293-db20e22b-d12f-4e66-86af-9494823797d7",
-      "published": "2026-08-28T17:27:53+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "headline": "Shoshone County commissioners approve $450K for sheriff's office vehicles",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/shoshone-county-approve-money-sheriffs-office-vehicles/293-2ecb6abe-4690-47f3-a4c8-734b548bcea8",
-      "published": "2026-08-28T15:56:32+00:00",
-      "time_ago": "14h ago"
-    },
-    {
-      "headline": "Bonner County hearing examiner recommends approval of new subdivision in Sandpoint",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/bonner-county-recommends-approval-new-subdivision-sandpoint/293-0220627b-785b-449b-8da9-c4e0fdd1686d",
-      "published": "2026-08-28T15:53:37+00:00",
-      "time_ago": "14h ago"
+      "link": "https://www.krem.com/article/news/local/wildfire/upper-smith-creek-fire-boundary-county/293-9d470046-1194-4761-aa92-08b5cf94dd24",
+      "published": "2026-08-29T21:35:42+00:00",
+      "time_ago": "8h ago"
     }
   ]
 }
