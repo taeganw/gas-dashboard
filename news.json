@@ -1,20 +1,27 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-08-30 06:00 AM UTC",
+  "updated": "2026-08-31 06:00 AM UTC",
   "headlines": [
+    {
+      "headline": "Inmate dies in Ada County Jail during medical emergency",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/inmate-dies-ada-county-jail-during-medical-emergency/277-260ae6bd-76e2-4c41-aa92-c05851af1b31",
+      "published": "2026-08-30T23:25:48+00:00",
+      "time_ago": "6h ago"
+    },
     {
       "headline": "Level 1 (Get Ready) evacuations for Dudley Fire near Wallace",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/wildfire/dudley-fire-near-wallace-idaho/293-5269ab13-21cf-4ff0-8739-6f7225ba2746",
-      "published": "2026-08-30T00:48:51+00:00",
-      "time_ago": "5h ago"
+      "published": "2026-08-30T20:10:21+00:00",
+      "time_ago": "9h ago"
     },
     {
-      "headline": "Evacuations downgraded to Level 1 for the Upper Smith Creek Fire in Boundary County",
+      "headline": "Firefighters contain structure fire in Clearwater County on Saturday, evacuations lifted",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/wildfire/upper-smith-creek-fire-boundary-county/293-9d470046-1194-4761-aa92-08b5cf94dd24",
-      "published": "2026-08-29T21:35:42+00:00",
-      "time_ago": "8h ago"
+      "link": "https://www.krem.com/article/news/local/idaho/firefighters-contain-structure-fire-in-clearwater-county-on-saturday-evacuations-lifted/293-992de87d-c7da-4d9c-ba81-bb24fbaefb83",
+      "published": "2026-08-30T18:41:24+00:00",
+      "time_ago": "11h ago"
     }
   ]
 }
