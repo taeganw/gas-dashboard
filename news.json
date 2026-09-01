@@ -1,27 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-08-31 06:00 AM UTC",
+  "updated": "2026-09-01 06:00 AM UTC",
   "headlines": [
     {
-      "headline": "Inmate dies in Ada County Jail during medical emergency",
+      "headline": "Bryan Kohberger granted June 2027 hearing in bid to withdraw guilty plea",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/inmate-dies-ada-county-jail-during-medical-emergency/277-260ae6bd-76e2-4c41-aa92-c05851af1b31",
-      "published": "2026-08-30T23:25:48+00:00",
-      "time_ago": "6h ago"
+      "link": "https://www.krem.com/article/news/crime/kohberger-trial-idaho-murders/bryan-kohberger-granted-hearing-set-june-2027/277-48723ea0-ab5e-4e61-beda-e022236ef5f5",
+      "published": "2026-09-01T05:10:01+00:00",
+      "time_ago": "50m ago"
+    },
+    {
+      "headline": "New 4-H STEM bus brings learning on the road",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/new-4-h-stem-bus-brings-learning-on-the-road/293-d5316383-0ebc-4c57-ac56-8fe4a46e5eea",
+      "published": "2026-08-31T17:37:06+00:00",
+      "time_ago": "12h ago"
+    },
+    {
+      "headline": "First phase of Montrose Sports Complex nears completion",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/first-phase-of-montrose-sports-complex-nears-completion/293-c83bd1a6-73bb-4089-ba71-0bd6bd54e66f",
+      "published": "2026-08-31T17:32:51+00:00",
+      "time_ago": "12h ago"
+    },
+    {
+      "headline": "Evacuations downgraded to Level 1 for the Upper Smith Creek Fire in Boundary County",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/wildfire/upper-smith-creek-fire-boundary-county/293-9d470046-1194-4761-aa92-08b5cf94dd24",
+      "published": "2026-08-31T17:18:22+00:00",
+      "time_ago": "12h ago"
     },
     {
       "headline": "Level 1 (Get Ready) evacuations for Dudley Fire near Wallace",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/wildfire/dudley-fire-near-wallace-idaho/293-5269ab13-21cf-4ff0-8739-6f7225ba2746",
-      "published": "2026-08-30T20:10:21+00:00",
-      "time_ago": "9h ago"
-    },
-    {
-      "headline": "Firefighters contain structure fire in Clearwater County on Saturday, evacuations lifted",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/firefighters-contain-structure-fire-in-clearwater-county-on-saturday-evacuations-lifted/293-992de87d-c7da-4d9c-ba81-bb24fbaefb83",
-      "published": "2026-08-30T18:41:24+00:00",
-      "time_ago": "11h ago"
+      "published": "2026-08-31T17:12:55+00:00",
+      "time_ago": "12h ago"
     }
   ]
 }
