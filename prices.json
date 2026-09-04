@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-09-03 06:00 AM UTC",
+  "updated": "2026-09-04 06:00 AM UTC",
   "stations": [
     {
       "name": "Costco",
@@ -13,9 +13,23 @@
     {
       "name": "Walmart",
       "address": "3050 E Mullan Ave, Post Falls",
-      "price": 4.44,
-      "formatted_price": "$4.44",
+      "price": 4.43,
+      "formatted_price": "$4.43",
       "distance": 1.4
+    },
+    {
+      "name": "Exxon",
+      "address": "701 N Spokane St, Post Falls",
+      "price": 4.47,
+      "formatted_price": "$4.47",
+      "distance": 0.7
+    },
+    {
+      "name": "76",
+      "address": "770 N ID-41, Post Falls",
+      "price": 4.47,
+      "formatted_price": "$4.47",
+      "distance": 2.0
     },
     {
       "name": "Local Market Post Falls-Chevro",
@@ -25,32 +39,18 @@
       "distance": 2.2
     },
     {
+      "name": "Handy Mart",
+      "address": "312 N Spokane St, Post Falls",
+      "price": 4.47,
+      "formatted_price": "$4.47",
+      "distance": 0.9
+    },
+    {
       "name": "Maverik",
       "address": "847 North Highway 41, Post Falls",
       "price": 4.47,
       "formatted_price": "$4.47",
       "distance": 1.9
-    },
-    {
-      "name": "Jifi Stop",
-      "address": "7785 W Lancaster Rd, Rathdrum",
-      "price": 4.47,
-      "formatted_price": "$4.47",
-      "distance": 5.2
-    },
-    {
-      "name": "7-Eleven",
-      "address": "4093 E Poleline Ave, Post Falls",
-      "price": 4.49,
-      "formatted_price": "$4.49",
-      "distance": 2.1
-    },
-    {
-      "name": "Conoco",
-      "address": "798 N ID-53, Rathdrum",
-      "price": 4.49,
-      "formatted_price": "$4.49",
-      "distance": 6.8
     }
   ]
 }

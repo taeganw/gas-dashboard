@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-03 06:00 AM UTC",
+  "updated": "2026-09-04 06:00 AM UTC",
   "current_price": 4.35,
   "trends": [
     {
       "label": "This Week",
       "available": true,
-      "compare_date": "2026-08-27",
+      "compare_date": "2026-08-28",
       "compare_price": 4.17,
       "diff": 0.17999999999999972,
       "pct": 4.316546762589922

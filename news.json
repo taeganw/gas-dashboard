@@ -1,41 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-09-03 06:00 AM UTC",
+  "updated": "2026-09-04 06:00 AM UTC",
   "headlines": [
     {
-      "headline": "64-year-old Sandpoint man dies in Garfield car crash",
+      "headline": "Kootenai County man charged with first-degree murder in Centralia woman's death",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/64-year-old-sandpoint-man-dies-in-garfield-car-crash/293-9d4220f2-6ddc-4f51-9412-125e4257dfca",
-      "published": "2026-09-03T01:48:18+00:00",
-      "time_ago": "4h ago"
-    },
-    {
-      "headline": "Idaho\u2019s state prison enters into formal partnership with ICE",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/idahos-state-prison-enters-formal-partnership-with-ice/277-508d3c80-fa94-46ea-a78b-094294547b9e",
-      "published": "2026-09-02T23:14:11+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "headline": "Northwest Guardian Riders hosting fundraiser for veterans, local charities Sept. 12 in Rathdrum",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/entertainment/events/northwest-guardian-riders-hosting-fundraiser-for-veterans-local-charities-sept-12-in-rathdrum/293-9d539ceb-4938-45e7-859e-348feddbc2dd",
-      "published": "2026-09-02T23:09:26+00:00",
-      "time_ago": "6h ago"
-    },
-    {
-      "headline": "Nez Perce County deputies locate body of missing man in Clearwater River",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/nez-perce-county-deputies-locate-body-of-missing-man-in-clearwater-river/293-39eb9c48-1f1a-4122-9c35-f9f7cdc19a92",
-      "published": "2026-09-02T22:44:35+00:00",
+      "link": "https://www.krem.com/article/news/crime/idaho-man-charged-first-degree-murder-centralia-womans-death/281-97b34e4a-d08f-4c98-a1c7-9a401c4a6b75",
+      "published": "2026-09-03T22:20:17+00:00",
       "time_ago": "7h ago"
     },
     {
-      "headline": "Idaho reports increase in rabid bats, potential human exposures",
+      "headline": "Record-high Labor Day gas prices expected in Idaho",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/idaho-increase-rabid-bats-potential-human-exposures/293-90f204c7-7e0a-49f7-86f5-890e2a26d46e",
-      "published": "2026-09-02T18:52:04+00:00",
-      "time_ago": "11h ago"
+      "link": "https://www.krem.com/article/traffic/gas-prices/record-high-labor-day-gas-prices-expected-idaho/277-1c1c59a2-f808-47af-b21c-f88c85308555",
+      "published": "2026-09-03T19:14:08+00:00",
+      "time_ago": "10h ago"
+    },
+    {
+      "headline": "License plate readers spark debate in Coeur d'Alene",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/license-plate-readers-spark-debate-in-coeur-dalene/293-73e59a35-354a-4b63-bf43-919d94c078ce",
+      "published": "2026-09-03T17:27:10+00:00",
+      "time_ago": "12h ago"
+    },
+    {
+      "headline": "CDA city council says reduction to planned tax hike is a no-go",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/cda-city-council-says-reduction-to-planned-tax-hike-is-a-no-go/293-3b0728d4-1407-441d-88d3-210b50472c9e",
+      "published": "2026-09-03T17:19:29+00:00",
+      "time_ago": "12h ago"
+    },
+    {
+      "headline": "University of Idaho opens bidding to buy viral game-week paintings",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/university-idaho-bidding-game-week-paintings/293-f3b0da80-937f-4b54-aa6e-e68e98830f7f",
+      "published": "2026-09-03T17:09:55+00:00",
+      "time_ago": "12h ago"
     }
   ]
 }
