@@ -1,41 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-09-04 06:00 AM UTC",
+  "updated": "2026-09-05 06:00 AM UTC",
   "headlines": [
     {
-      "headline": "Kootenai County man charged with first-degree murder in Centralia woman's death",
+      "headline": "Court documents detail Kootenai County man's alleged confession of Centralia woman's killing",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/crime/idaho-man-charged-first-degree-murder-centralia-womans-death/281-97b34e4a-d08f-4c98-a1c7-9a401c4a6b75",
-      "published": "2026-09-03T22:20:17+00:00",
+      "link": "https://www.krem.com/article/news/crime/court-documents-detail-kootenai-county-mans-alleged-confession-of-centralia-womans-killing/293-7da42972-b965-4cfc-8854-341ebf07f9e2",
+      "published": "2026-09-05T00:34:01+00:00",
+      "time_ago": "5h ago"
+    },
+    {
+      "headline": "Idaho kindergarten vaccine exemptions over \u2018four times the national average\u2019: Health officials weigh in",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/idaho-kindergarten-vaccine-exemptions-over-four-times-national-average-health-officials-weigh-in/277-3f05a555-7c23-4fa8-9830-e816a264b3ac",
+      "published": "2026-09-04T22:13:38+00:00",
       "time_ago": "7h ago"
     },
     {
-      "headline": "Record-high Labor Day gas prices expected in Idaho",
+      "headline": "Three Panhandle Health District executives resign",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/traffic/gas-prices/record-high-labor-day-gas-prices-expected-idaho/277-1c1c59a2-f808-47af-b21c-f88c85308555",
-      "published": "2026-09-03T19:14:08+00:00",
-      "time_ago": "10h ago"
+      "link": "https://www.krem.com/article/news/local/idaho/three-panhandle-health-district-executives-resign/293-2aafe619-de5d-4d2a-886a-af6a827f8d12",
+      "published": "2026-09-04T18:42:44+00:00",
+      "time_ago": "11h ago"
     },
     {
-      "headline": "License plate readers spark debate in Coeur d'Alene",
+      "headline": "Shoshone County adopts $18.4M budget",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/license-plate-readers-spark-debate-in-coeur-dalene/293-73e59a35-354a-4b63-bf43-919d94c078ce",
-      "published": "2026-09-03T17:27:10+00:00",
-      "time_ago": "12h ago"
+      "link": "https://www.krem.com/article/news/local/idaho/shoshone-county-adopts-184m-budget/293-0a689c82-e2b5-4df0-a1b1-e97effdc3c0c",
+      "published": "2026-09-04T18:35:39+00:00",
+      "time_ago": "11h ago"
     },
     {
-      "headline": "CDA city council says reduction to planned tax hike is a no-go",
+      "headline": "First responders, community to gather for annual 9/11 stair climb in Wallace",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/cda-city-council-says-reduction-to-planned-tax-hike-is-a-no-go/293-3b0728d4-1407-441d-88d3-210b50472c9e",
-      "published": "2026-09-03T17:19:29+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "headline": "University of Idaho opens bidding to buy viral game-week paintings",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/university-idaho-bidding-game-week-paintings/293-f3b0da80-937f-4b54-aa6e-e68e98830f7f",
-      "published": "2026-09-03T17:09:55+00:00",
-      "time_ago": "12h ago"
+      "link": "https://www.krem.com/article/news/local/idaho/first-responders-community-to-gather-for-annual-911-stair-climb-in-wallace/293-435e62d9-3b4a-40a5-8328-08de0f47e224",
+      "published": "2026-09-04T18:09:21+00:00",
+      "time_ago": "11h ago"
     }
   ]
 }
