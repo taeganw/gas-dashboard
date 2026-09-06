@@ -1,15 +1,8 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-09-05 06:00 AM UTC",
+  "updated": "2026-09-06 06:00 AM UTC",
   "stations": [
-    {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 4.43,
-      "formatted_price": "$4.43",
-      "distance": 7.1
-    },
     {
       "name": "Walmart",
       "address": "3050 E Mullan Ave, Post Falls",
@@ -18,18 +11,11 @@
       "distance": 1.4
     },
     {
-      "name": "76",
-      "address": "770 N ID-41, Post Falls",
+      "name": "Costco",
+      "address": "355 E Neider Ave, Coeur d'Alene",
       "price": 4.47,
       "formatted_price": "$4.47",
-      "distance": 2.0
-    },
-    {
-      "name": "Exxon",
-      "address": "701 N Spokane St, Post Falls",
-      "price": 4.47,
-      "formatted_price": "$4.47",
-      "distance": 0.7
+      "distance": 7.1
     },
     {
       "name": "Maverik",
@@ -46,11 +32,25 @@
       "distance": 2.2
     },
     {
-      "name": "Jifi Stop",
-      "address": "7785 W Lancaster Rd, Rathdrum",
+      "name": "Exxon",
+      "address": "701 N Spokane St, Post Falls",
       "price": 4.47,
       "formatted_price": "$4.47",
-      "distance": 5.2
+      "distance": 0.7
+    },
+    {
+      "name": "76",
+      "address": "211 E Seltice Way, Post Falls",
+      "price": 4.47,
+      "formatted_price": "$4.47",
+      "distance": 0.6
+    },
+    {
+      "name": "Amerimart",
+      "address": "7035 W Seltice Way, Post Falls",
+      "price": 4.5,
+      "formatted_price": "$4.50",
+      "distance": 5.0
     }
   ]
 }
