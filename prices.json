@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-09-07 06:00 AM UTC",
+  "updated": "2026-09-08 06:00 AM UTC",
   "stations": [
     {
       "name": "Walmart",
@@ -11,32 +11,18 @@
       "distance": 1.4
     },
     {
+      "name": "A-1 Smoke Shop",
+      "address": "7200 W Seltice Way, Post Falls",
+      "price": 4.44,
+      "formatted_price": "$4.44",
+      "distance": 5.0
+    },
+    {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
       "price": 4.47,
       "formatted_price": "$4.47",
       "distance": 7.1
-    },
-    {
-      "name": "Local Market Post Falls-Chevro",
-      "address": "4092 E Bogie Drive, Post Falls",
-      "price": 4.47,
-      "formatted_price": "$4.47",
-      "distance": 2.2
-    },
-    {
-      "name": "Maverik",
-      "address": "847 North Highway 41, Post Falls",
-      "price": 4.47,
-      "formatted_price": "$4.47",
-      "distance": 1.9
-    },
-    {
-      "name": "76",
-      "address": "211 E Seltice Way, Post Falls",
-      "price": 4.47,
-      "formatted_price": "$4.47",
-      "distance": 0.6
     },
     {
       "name": "Exxon",
@@ -46,11 +32,25 @@
       "distance": 0.7
     },
     {
-      "name": "Amerimart",
-      "address": "7035 W Seltice Way, Post Falls",
-      "price": 4.5,
-      "formatted_price": "$4.50",
-      "distance": 5.0
+      "name": "76",
+      "address": "770 N ID-41, Post Falls",
+      "price": 4.47,
+      "formatted_price": "$4.47",
+      "distance": 2.0
+    },
+    {
+      "name": "Local Market Post Falls-Chevro",
+      "address": "4092 E Bogie Drive, Post Falls",
+      "price": 4.47,
+      "formatted_price": "$4.47",
+      "distance": 2.2
+    },
+    {
+      "name": "Handy Mart",
+      "address": "312 N Spokane St, Post Falls",
+      "price": 4.47,
+      "formatted_price": "$4.47",
+      "distance": 0.9
     }
   ]
 }
