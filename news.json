@@ -1,13 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-09-08 06:00 AM UTC",
+  "updated": "2026-09-09 06:00 AM UTC",
   "headlines": [
     {
-      "headline": "Evacuations lifted for Dudley Fire near Wallace",
+      "headline": "Sunshine Mine builds toward new era in Silver Valley",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/wildfire/dudley-fire-near-wallace-idaho/293-5269ab13-21cf-4ff0-8739-6f7225ba2746",
-      "published": "2026-09-07T19:09:38+00:00",
-      "time_ago": "10h ago"
+      "link": "https://www.krem.com/article/news/local/idaho/sunshine-mine-new-era-silver-valley/293-84e133c3-0309-4682-9346-d8e5d89a59be",
+      "published": "2026-09-08T17:12:18+00:00",
+      "time_ago": "12h ago"
+    },
+    {
+      "headline": "Sandpoint's Walk for HOPE, though virtual this year, still bringing people together",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/sandpoints-walk-for-hope-though-virtual-this-year-still-bringing-people-together/293-584916b6-2c52-40cb-8f11-18b388d9f9cf",
+      "published": "2026-09-08T17:09:00+00:00",
+      "time_ago": "12h ago"
+    },
+    {
+      "headline": "Post Falls police chief against banning ALPRs",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/post-falls-police-chief-against-banning-alprs/293-062dc9e8-bcd2-4388-8cdf-ef9caa508d75",
+      "published": "2026-09-08T17:03:44+00:00",
+      "time_ago": "12h ago"
+    },
+    {
+      "headline": "Conservation deal protects Lake Creek, 700 acres of forest",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/conservation-deal-protects-lake-creek-700-acres-of-forest/293-44f4b05a-5136-4f0e-8115-34f82ce75e6c",
+      "published": "2026-09-08T16:59:11+00:00",
+      "time_ago": "13h ago"
+    },
+    {
+      "headline": "Idaho Supreme Court approves revised ballot language for Proposition 1",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/politics/elections/idaho-supreme-court-approves-revised-ballot-language-proposition-one/277-aad0dacd-beb5-4478-b6f2-cc0dc93ebe0d",
+      "published": "2026-09-08T12:59:06+00:00",
+      "time_ago": "17h ago"
     }
   ]
 }
