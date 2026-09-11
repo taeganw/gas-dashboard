@@ -1,8 +1,15 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-09-10 06:00 AM UTC",
+  "updated": "2026-09-11 06:00 AM UTC",
   "stations": [
+    {
+      "name": "Amerimart",
+      "address": "7035 W Seltice Way, Post Falls",
+      "price": 4.45,
+      "formatted_price": "$4.45",
+      "distance": 5.0
+    },
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
@@ -11,32 +18,18 @@
       "distance": 7.1
     },
     {
-      "name": "Cenex",
-      "address": "606 W Mullan Ave, Post Falls",
-      "price": 4.49,
-      "formatted_price": "$4.49",
-      "distance": 1.0
-    },
-    {
-      "name": "Liberty",
-      "address": "6902 W Seltice Way, Post Falls",
-      "price": 4.5,
-      "formatted_price": "$4.50",
-      "distance": 4.9
-    },
-    {
-      "name": "Amerimart",
-      "address": "7035 W Seltice Way, Post Falls",
+      "name": "A-1 Smoke Shop",
+      "address": "7200 W Seltice Way, Post Falls",
       "price": 4.51,
       "formatted_price": "$4.51",
       "distance": 5.0
     },
     {
-      "name": "Local Market Post Falls-Chevro",
-      "address": "4092 E Bogie Drive, Post Falls",
-      "price": 4.55,
-      "formatted_price": "$4.55",
-      "distance": 2.2
+      "name": "Walmart",
+      "address": "3050 E Mullan Ave, Post Falls",
+      "price": 4.51,
+      "formatted_price": "$4.51",
+      "distance": 1.4
     },
     {
       "name": "7-Eleven",
@@ -46,11 +39,18 @@
       "distance": 3.1
     },
     {
-      "name": "Maverik",
-      "address": "5992 W Point Parkway, Post Falls",
+      "name": "76",
+      "address": "770 N ID-41, Post Falls",
       "price": 4.55,
       "formatted_price": "$4.55",
-      "distance": 4.5
+      "distance": 2.0
+    },
+    {
+      "name": "Circle K",
+      "address": "70 N Beck Rd, Post Falls",
+      "price": 4.55,
+      "formatted_price": "$4.55",
+      "distance": 4.2
     }
   ]
 }
