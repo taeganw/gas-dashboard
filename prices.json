@@ -1,8 +1,43 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-09-13 06:00 AM UTC",
+  "updated": "2026-09-14 06:00 AM UTC",
   "stations": [
+    {
+      "name": "Amerimart",
+      "address": "7035 W Seltice Way, Post Falls",
+      "price": 4.45,
+      "formatted_price": "$4.45",
+      "distance": 5.0
+    },
+    {
+      "name": "A-1 Smoke Shop",
+      "address": "7200 W Seltice Way, Post Falls",
+      "price": 4.45,
+      "formatted_price": "$4.45",
+      "distance": 5.0
+    },
+    {
+      "name": "Walmart",
+      "address": "3050 E Mullan Ave, Post Falls",
+      "price": 4.45,
+      "formatted_price": "$4.45",
+      "distance": 1.4
+    },
+    {
+      "name": "Local Market Post Falls-Chevro",
+      "address": "4092 E Bogie Drive, Post Falls",
+      "price": 4.47,
+      "formatted_price": "$4.47",
+      "distance": 2.2
+    },
+    {
+      "name": "Maverik",
+      "address": "5992 W Point Parkway, Post Falls",
+      "price": 4.49,
+      "formatted_price": "$4.49",
+      "distance": 4.5
+    },
     {
       "name": "Flying J",
       "address": "3636 W 5th Ave, Post Falls",
@@ -11,46 +46,11 @@
       "distance": 2.9
     },
     {
-      "name": "Love's Travel Stop",
-      "address": "4208 W Expo Pkwy, Post Falls",
+      "name": "Maverik",
+      "address": "847 North Highway 41, Post Falls",
       "price": 4.49,
       "formatted_price": "$4.49",
-      "distance": 3.3
-    },
-    {
-      "name": "Amerimart",
-      "address": "7035 W Seltice Way, Post Falls",
-      "price": 4.51,
-      "formatted_price": "$4.51",
-      "distance": 5.0
-    },
-    {
-      "name": "A-1 Smoke Shop",
-      "address": "7200 W Seltice Way, Post Falls",
-      "price": 4.51,
-      "formatted_price": "$4.51",
-      "distance": 5.0
-    },
-    {
-      "name": "Walmart",
-      "address": "3050 E Mullan Ave, Post Falls",
-      "price": 4.51,
-      "formatted_price": "$4.51",
-      "distance": 1.4
-    },
-    {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 4.55,
-      "formatted_price": "$4.55",
-      "distance": 7.1
-    },
-    {
-      "name": "7-Eleven",
-      "address": "4093 E Poleline Ave, Post Falls",
-      "price": 4.55,
-      "formatted_price": "$4.55",
-      "distance": 2.1
+      "distance": 1.9
     }
   ]
 }
