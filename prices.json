@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-09-15 06:00 AM UTC",
+  "updated": "2026-09-16 06:00 AM UTC",
   "stations": [
     {
       "name": "Amerimart",
@@ -18,6 +18,13 @@
       "distance": 5.0
     },
     {
+      "name": "A & D Mini Mart",
+      "address": "356 E Appleway Ave, Coeur d'Alene",
+      "price": 4.47,
+      "formatted_price": "$4.47",
+      "distance": 7.3
+    },
+    {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
       "price": 4.55,
@@ -25,25 +32,11 @@
       "distance": 7.1
     },
     {
-      "name": "Local Market Post Falls-Chevro",
-      "address": "4092 E Bogie Drive, Post Falls",
-      "price": 4.55,
-      "formatted_price": "$4.55",
-      "distance": 2.2
-    },
-    {
-      "name": "A & D Mini Mart",
-      "address": "356 E Appleway Ave, Coeur d'Alene",
-      "price": 4.57,
-      "formatted_price": "$4.57",
-      "distance": 7.3
-    },
-    {
-      "name": "7-Eleven",
-      "address": "114 E Appleway Ave, Coeur d'Alene",
-      "price": 4.57,
-      "formatted_price": "$4.57",
-      "distance": 7.1
+      "name": "Maverik",
+      "address": "5525 North Government Way, Coeur d'Alene",
+      "price": 4.56,
+      "formatted_price": "$4.56",
+      "distance": 6.9
     },
     {
       "name": "76",
@@ -51,6 +44,13 @@
       "price": 4.57,
       "formatted_price": "$4.57",
       "distance": 7.9
+    },
+    {
+      "name": "Maverik",
+      "address": "6415 North Ramsey Road, Coeur d Alene",
+      "price": 4.58,
+      "formatted_price": "$4.58",
+      "distance": 5.9
     }
   ]
 }
