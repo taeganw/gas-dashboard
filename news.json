@@ -1,41 +1,27 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-09-16 06:00 AM UTC",
+  "updated": "2026-09-17 06:00 AM UTC",
   "headlines": [
     {
-      "headline": "New Saint Andrews College sues City of Moscow",
+      "headline": "Priest River seeks $139K block grant for park project",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/new-saint-andrews-college-sues-city-of-moscow/293-a1c0d128-a4d2-4b43-8209-6dfcc2e5f4a9",
-      "published": "2026-09-16T05:21:19+00:00",
-      "time_ago": "39m ago"
-    },
-    {
-      "headline": "Idaho State Police welcomes new explosive detection K-9 Annie",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/idaho-state-police-welcomes-explosive-detection-k-9/277-5506424e-30f0-460a-8784-5626d66ec7a7",
-      "published": "2026-09-15T22:21:58+00:00",
-      "time_ago": "7h ago"
-    },
-    {
-      "headline": "Bear Fair offers practical tips for living in bear country",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/bear-fair-offers-practical-tips-for-living-in-bear-country/293-fbbc7a01-4ced-4a88-86f0-c4d9e409fb5d",
-      "published": "2026-09-15T19:21:53+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "headline": "Former Spokane Police Chief named new undersheriff in Kootenai County",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/former-spokane-police-chief-named-new-undersheriff-in-kootenai-county/293-15939f06-693e-4da4-83cb-3a1ad7ff2378",
-      "published": "2026-09-15T19:01:59+00:00",
-      "time_ago": "10h ago"
-    },
-    {
-      "headline": "'Want this truck to be around forever': Coeur d'Alene firefighters restore century-old fire truck",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/want-this-truck-to-be-around-forever-coeur-dalene-firefighters-restore-century-old-fire-truck/293-b14463c7-ee62-40ce-90ae-cdef79ea6c06",
-      "published": "2026-09-15T17:39:41+00:00",
+      "link": "https://www.krem.com/article/news/local/idaho/priest-river-seeks-139k-block-grant-for-park-project/293-69f56373-cf6a-46b1-958e-5981c72057ec",
+      "published": "2026-09-16T17:30:49+00:00",
       "time_ago": "12h ago"
+    },
+    {
+      "headline": "Lake Pend Oreille School District\u2019s Career and Technical Education Center opens doors to students",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/lake-pend-oreille-school-districts-career-and-technical-education-center-opens-doors-to-students/293-9bf059e1-a0ce-4e77-b164-efcb4f64e087",
+      "published": "2026-09-16T17:24:15+00:00",
+      "time_ago": "12h ago"
+    },
+    {
+      "headline": "Post Falls council OKs $3.1M water reclamation project",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/post-falls-council-oks-31m-water-reclamation-project/293-16acd3ff-8a07-4b76-b7c5-17b0de48bea6",
+      "published": "2026-09-16T16:44:10+00:00",
+      "time_ago": "13h ago"
     }
   ]
 }
