@@ -1,14 +1,21 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-09-17 06:00 AM UTC",
+  "updated": "2026-09-18 06:00 AM UTC",
   "stations": [
     {
       "name": "A-1 Smoke Shop",
       "address": "7200 W Seltice Way, Post Falls",
-      "price": 4.55,
-      "formatted_price": "$4.55",
+      "price": 4.45,
+      "formatted_price": "$4.45",
       "distance": 5.0
+    },
+    {
+      "name": "Costco",
+      "address": "355 E Neider Ave, Coeur d'Alene",
+      "price": 4.53,
+      "formatted_price": "$4.53",
+      "distance": 7.1
     },
     {
       "name": "Amerimart",
@@ -18,11 +25,11 @@
       "distance": 5.0
     },
     {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
+      "name": "Cenex",
+      "address": "5831 N Government Way, Coeur d'Alene",
       "price": 4.56,
       "formatted_price": "$4.56",
-      "distance": 7.1
+      "distance": 6.9
     },
     {
       "name": "Maverik",
@@ -32,25 +39,18 @@
       "distance": 6.9
     },
     {
+      "name": "Circle K",
+      "address": "312 W Haycraft Ave, Coeur d'Alene",
+      "price": 4.56,
+      "formatted_price": "$4.56",
+      "distance": 6.8
+    },
+    {
       "name": "A & D Mini Mart",
       "address": "356 E Appleway Ave, Coeur d'Alene",
       "price": 4.57,
       "formatted_price": "$4.57",
       "distance": 7.3
-    },
-    {
-      "name": "76",
-      "address": "5632 N 15th St, Coeur d'Alene",
-      "price": 4.57,
-      "formatted_price": "$4.57",
-      "distance": 7.9
-    },
-    {
-      "name": "Walmart",
-      "address": "3050 E Mullan Ave, Post Falls",
-      "price": 4.57,
-      "formatted_price": "$4.57",
-      "distance": 1.4
     }
   ]
 }
