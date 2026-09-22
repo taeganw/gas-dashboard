@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-09-21 07:43 PM UTC",
+  "updated": "2026-09-22 06:00 AM UTC",
   "stations": [
     {
       "name": "Amerimart",
@@ -20,8 +20,8 @@
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 4.53,
-      "formatted_price": "$4.53",
+      "price": 4.47,
+      "formatted_price": "$4.47",
       "distance": 7.1
     },
     {
@@ -32,11 +32,11 @@
       "distance": 1.4
     },
     {
-      "name": "Maverik",
-      "address": "6415 North Ramsey Road, Coeur d Alene",
+      "name": "7-Eleven",
+      "address": "114 E Appleway Ave, Coeur d'Alene",
       "price": 4.56,
       "formatted_price": "$4.56",
-      "distance": 5.9
+      "distance": 7.1
     },
     {
       "name": "Circle K",
@@ -47,10 +47,10 @@
     },
     {
       "name": "Maverik",
-      "address": "5525 North Government Way, Coeur d'Alene",
+      "address": "6415 North Ramsey Road, Coeur d Alene",
       "price": 4.56,
       "formatted_price": "$4.56",
-      "distance": 6.9
+      "distance": 5.9
     }
   ]
 }
