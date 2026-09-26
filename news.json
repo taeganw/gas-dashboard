@@ -1,20 +1,34 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-09-21 07:46 PM UTC",
+  "updated": "2026-09-26 06:00 AM UTC",
   "headlines": [
     {
-      "headline": "Kootenai County commissioner proposes billing cities for law enforcement services",
+      "headline": "Coeur d'Alene's I-90 Northwest Boulevard ramp closure extended for an extra two weeks",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/kootenai-county-commissioner-proposes-billing-cities-for-law-enforcement-services/293-e61802c0-52b4-4557-bd2f-0cbb1ef4d0a6",
-      "published": "2026-09-21T17:41:58+00:00",
-      "time_ago": "2h ago"
+      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalenes-i-90-northwest-boulevard-ramp-closure-extended-for-an-extra-two-weeks/293-d9cff55b-9cca-49de-a7c7-f653c6377269",
+      "published": "2026-09-25T22:28:21+00:00",
+      "time_ago": "7h ago"
     },
     {
-      "headline": "Coeur d\u2019Alene School District declines emergency levy",
+      "headline": "Shoshone County Sheriff's Office revives search and rescue team",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-school-district-declines-emergency-levy/293-01a8aa80-57ad-46fc-bdf1-e1d1202d27dc",
-      "published": "2026-09-21T17:11:02+00:00",
-      "time_ago": "2h ago"
+      "link": "https://www.krem.com/article/news/local/idaho/shoshone-county-sheriffs-office-revives-search-and-rescue-team/293-18e8c906-42e3-4068-bc0c-2670364b6355",
+      "published": "2026-09-25T18:43:25+00:00",
+      "time_ago": "11h ago"
+    },
+    {
+      "headline": "Idaho\u2019s new law calling for a minute of quiet time becomes part of students' daily routine",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/idahos-new-law-calling-for-a-minute-of-quiet-time-becomes-part-of-students-daily-routine/293-8445210e-48ab-490a-a304-7dd0e957feb5",
+      "published": "2026-09-25T18:20:50+00:00",
+      "time_ago": "11h ago"
+    },
+    {
+      "headline": "'Power play': KCRCC addresses investigation into members who signed Idaho's Prop 1",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/power-play-kcrcc-addresses-investigation-into-members-who-signed-idahos-prop-1/293-1695b715-cfb3-420a-a43f-7954c995d48a",
+      "published": "2026-09-25T18:07:15+00:00",
+      "time_ago": "11h ago"
     }
   ]
 }
