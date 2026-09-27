@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-09-24 06:00 AM UTC",
+  "updated": "2026-09-27 06:00 AM UTC",
   "stations": [
     {
       "name": "Amerimart",
@@ -27,8 +27,8 @@
     {
       "name": "Walmart",
       "address": "3050 E Mullan Ave, Post Falls",
-      "price": 4.53,
-      "formatted_price": "$4.53",
+      "price": 4.52,
+      "formatted_price": "$4.52",
       "distance": 1.4
     },
     {
