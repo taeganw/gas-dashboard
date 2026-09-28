@@ -1,21 +1,21 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-09-28 06:00 AM UTC",
+  "updated": "2026-09-28 07:26 PM UTC",
   "stations": [
-    {
-      "name": "Liberty",
-      "address": "6902 W Seltice Way, Post Falls",
-      "price": 4.45,
-      "formatted_price": "$4.45",
-      "distance": 4.9
-    },
     {
       "name": "Amerimart",
       "address": "7035 W Seltice Way, Post Falls",
       "price": 4.45,
       "formatted_price": "$4.45",
       "distance": 5.0
+    },
+    {
+      "name": "Liberty",
+      "address": "6902 W Seltice Way, Post Falls",
+      "price": 4.45,
+      "formatted_price": "$4.45",
+      "distance": 4.9
     },
     {
       "name": "Costco",
@@ -46,11 +46,11 @@
       "distance": 5.9
     },
     {
-      "name": "Maverik",
-      "address": "5525 North Government Way, Coeur d'Alene",
+      "name": "Circle K",
+      "address": "312 W Haycraft Ave, Coeur d'Alene",
       "price": 4.56,
       "formatted_price": "$4.56",
-      "distance": 6.9
+      "distance": 6.8
     }
   ]
 }
