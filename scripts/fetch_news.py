@@ -11,6 +11,8 @@ pipeline (same 800x480 e-paper canvas as index.html).
 
 import html
 import json
+import socket
+import subprocess
 import sys
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -18,6 +20,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from string import Template
 from urllib.request import Request, urlopen
+from urllib.error import URLError
 from zoneinfo import ZoneInfo
 
 FEED_URL = "https://www.krem.com/feeds/syndication/rss/news/local/idaho"
@@ -57,8 +60,20 @@ def relative_time(published: datetime, now: datetime) -> str:
 
 def fetch_headlines():
     request = Request(FEED_URL, headers={"User-Agent": "gas-dashboard/1.0 (personal news tracker)"})
-    with urlopen(request, timeout=REQUEST_TIMEOUT) as response:
-        raw = response.read()
+    try:
+        with urlopen(request, timeout=REQUEST_TIMEOUT) as response:
+            raw = response.read()
+    except URLError as exc:
+        if not isinstance(exc.reason, socket.gaierror):
+            raise
+        # The host resolver occasionally returns SERVFAIL for KREM. curl's
+        # DNS-over-HTTPS fallback still validates the site's TLS certificate.
+        raw = subprocess.run(
+            ["curl", "--fail", "--silent", "--show-error", "--location",
+             "--max-time", str(REQUEST_TIMEOUT), "--doh-url", "https://1.1.1.1/dns-query",
+             "--header", "User-Agent: gas-dashboard/1.0 (personal news tracker)", FEED_URL],
+            capture_output=True, check=True, timeout=REQUEST_TIMEOUT + 5,
+        ).stdout
 
     root = ET.fromstring(raw)
     now = datetime.now(timezone.utc)
