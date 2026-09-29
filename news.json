@@ -1,41 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-09-28 07:26 PM UTC",
+  "updated": "2026-09-29 01:00 PM UTC",
   "headlines": [
+    {
+      "headline": "North Idaho Construction Updates",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/north-idaho-construction-updates/293-b4aeda96-1cd2-48c6-a802-083066bc84cd",
+      "published": "2026-09-29T05:15:22+00:00",
+      "time_ago": "7h ago"
+    },
     {
       "headline": "Sandpoint removes controversial on-street parking kiosks, but confusion lingers",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/sandpoint-removes-controversial-on-street-parking-kiosks-but-confusion-lingers/293-b9cae1d9-052a-431a-8dd8-0bc917154bbf",
       "published": "2026-09-28T18:24:47+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "18h ago"
     },
     {
       "headline": "New U of I Extension director driven to help Idahoans",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/education/u-of-i-education/new-u-of-i-extension-director-driven-to-help-idahoans/293-b307febf-19af-4c7a-b965-fd42469f3e9a",
       "published": "2026-09-28T18:14:00+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "18h ago"
     },
     {
       "headline": "Rathdrum approves new police evidence outbuilding",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/rathdrum-approves-new-police-evidence-outbuilding/293-b1a38a7e-4861-4b76-9cff-7b6837b04f53",
       "published": "2026-09-28T17:57:31+00:00",
-      "time_ago": "1h ago"
+      "time_ago": "19h ago"
     },
     {
       "headline": "ISP investigating crash near Porthill that left driver dead, passenger critically injured",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/crash-porthill-driver-dead-passenger-critically-injured/293-a86b38db-734c-48c5-8004-eec25466f456",
       "published": "2026-09-28T14:13:17+00:00",
-      "time_ago": "5h ago"
-    },
-    {
-      "headline": "Idaho's 2026 Capitol Christmas Tree replaced due to disease concerns",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/idahos-2026-capitol-christmas-tree-replaced-disease-concerns/277-df95adc7-64f0-415b-9cd7-a3df29e665de",
-      "published": "2026-09-28T13:24:17+00:00",
-      "time_ago": "6h ago"
+      "time_ago": "22h ago"
     }
   ]
 }
