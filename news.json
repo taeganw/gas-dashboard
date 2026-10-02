@@ -1,13 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-10-01 01:00 PM UTC",
+  "updated": "2026-10-02 01:00 PM UTC",
   "headlines": [
     {
-      "headline": "Idaho churches can give to political campaigns, including anti-Prop 1 initiatives, without donor disclosure",
+      "headline": "One killed in Ponderay house fire",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/idaho-churches-can-give-political-campaigns-including-anti-prop-1-initiatives-donor-disclosure/277-5f0674b5-e8a7-4749-958c-547c3be54c1a",
-      "published": "2026-10-01T12:53:04+00:00",
-      "time_ago": "7m ago"
+      "link": "https://www.krem.com/article/news/local/idaho/one-killed-in-ponderay-structure-fire/293-1a0057ac-6b1b-481a-81a4-49535becb4eb",
+      "published": "2026-10-02T00:22:03+00:00",
+      "time_ago": "12h ago"
+    },
+    {
+      "headline": "Post Falls, St. Vincent de Paul team up to help people with utility bills",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/community/post-falls-st-vincent-de-paul-team-up-to-help-people-with-utility-bills/293-b4890a6b-18d1-465c-b9c6-3fba7becfc40",
+      "published": "2026-10-01T22:15:10+00:00",
+      "time_ago": "14h ago"
+    },
+    {
+      "headline": "What to know about the candidates running for Idaho governor",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/politics/elections/candidates-idaho-governor/293-56745720-d396-4bd7-80ca-204aaea8749c",
+      "published": "2026-10-01T21:30:30+00:00",
+      "time_ago": "15h ago"
+    },
+    {
+      "headline": "SH-54 traffic circle to close Monday for paving",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/sh-54-traffic-circle-to-close-monday-for-paving/293-1be4ef5e-7e81-471d-810b-a1e885ddd704",
+      "published": "2026-10-01T20:24:58+00:00",
+      "time_ago": "16h ago"
+    },
+    {
+      "headline": "What is Idaho's Proposition 1? What you need to know ahead of the 2026 General Election",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/politics/elections/what-is-idaho-proposition-1-2026-general-election/293-7a4ee866-ced9-4601-b60e-28ebb1dcf2b6",
+      "published": "2026-10-01T19:21:40+00:00",
+      "time_ago": "17h ago"
     }
   ]
 }

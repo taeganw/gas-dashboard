@@ -1,18 +1,25 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-10-01 01:00 PM UTC",
+  "updated": "2026-10-02 01:00 PM UTC",
   "stations": [
-    {
-      "name": "A-1 Smoke Shop",
-      "address": "7200 W Seltice Way, Post Falls",
-      "price": 4.4,
-      "formatted_price": "$4.40",
-      "distance": 5.0
-    },
     {
       "name": "Amerimart",
       "address": "7035 W Seltice Way, Post Falls",
+      "price": 4.39,
+      "formatted_price": "$4.39",
+      "distance": 5.0
+    },
+    {
+      "name": "Conoco",
+      "address": "2503 N ID-41, Post Falls",
+      "price": 4.39,
+      "formatted_price": "$4.39",
+      "distance": 2.0
+    },
+    {
+      "name": "A-1 Smoke Shop",
+      "address": "7200 W Seltice Way, Post Falls",
       "price": 4.4,
       "formatted_price": "$4.40",
       "distance": 5.0
@@ -25,11 +32,11 @@
       "distance": 1.4
     },
     {
-      "name": "Liberty",
-      "address": "6902 W Seltice Way, Post Falls",
-      "price": 4.45,
-      "formatted_price": "$4.45",
-      "distance": 4.9
+      "name": "Local Market Post Falls-Chevro",
+      "address": "4092 E Bogie Drive, Post Falls",
+      "price": 4.47,
+      "formatted_price": "$4.47",
+      "distance": 2.2
     },
     {
       "name": "7-Eleven",
@@ -39,18 +46,11 @@
       "distance": 2.1
     },
     {
-      "name": "Maverik",
-      "address": "847 North Highway 41, Post Falls",
+      "name": "76",
+      "address": "211 E Seltice Way, Post Falls",
       "price": 4.49,
       "formatted_price": "$4.49",
-      "distance": 1.9
-    },
-    {
-      "name": "Conoco",
-      "address": "2503 N ID-41, Post Falls",
-      "price": 4.49,
-      "formatted_price": "$4.49",
-      "distance": 2.0
+      "distance": 0.6
     }
   ]
 }
