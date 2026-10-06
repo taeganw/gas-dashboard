@@ -1,40 +1,40 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-10-05 01:00 PM UTC",
+  "updated": "2026-10-06 01:00 PM UTC",
   "headlines": [
+    {
+      "headline": "'Partners, not adversaries': Kootenai County Sheriff addresses law enforcement dispute between county, City of Hayden",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/kootenai-county-sheriff-addresses-law-enforcement-dispute-hayden/293-22fd3367-0641-4211-b612-0afad963298b",
+      "published": "2026-10-05T19:23:31+00:00",
+      "time_ago": "17h ago"
+    },
+    {
+      "headline": "Election complaints filed against two Shoshone County candidates",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/election-complaints-filed-against-two-shoshone-county-candidates/293-a26f79f2-87f8-4498-bddd-013b6de0bf3b",
+      "published": "2026-10-05T17:58:38+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Kootenai County prosecutors: Son killed elderly mother over money",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/crime/kootenai-county-prosecutors-son-killed-elderly-mother-over-money/293-877db5c4-2e14-4eb8-9b5f-cbc26ab489ce",
+      "published": "2026-10-05T17:50:47+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "New Post Falls community celebrates completion of affordable housing project",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/new-post-falls-community-celebrates-completion-of-affordable-housing-project/293-500e33e7-f7e0-4422-8a8d-c1d11a20db4b",
+      "published": "2026-10-05T17:42:47+00:00",
+      "time_ago": "19h ago"
+    },
     {
       "headline": "Idaho voter guide: Candidates, key races on the 2026 General Election ballot",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/politics/elections/north-idaho-voter-guide-2026-general-election-ballot/293-074204f3-338d-4b45-b7bf-40315602c5a6",
       "published": "2026-10-02T22:39:45+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "Panhandle Bike Ranch seeks mutual dismissal of lawsuits, cites pending application",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/panhandle-bike-ranch-seeks-mutual-dismissal-of-lawsuits-cites-pending-application/293-783599e4-3b24-4ed3-9261-ad6b9bcc35d7",
-      "published": "2026-10-02T21:18:22+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "Coeur d'Alene Police increasing traffic enforcement to tackle aggressive driving",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-police-increasing-traffic-enforcement-to-tackle-aggressive-driving/293-5420cfd3-793d-4db2-a800-ac353360059a",
-      "published": "2026-10-02T21:10:55+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "One killed in Ponderay house fire",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/one-killed-in-ponderay-structure-fire/293-1a0057ac-6b1b-481a-81a4-49535becb4eb",
-      "published": "2026-10-02T00:22:03+00:00",
-      "time_ago": "3d ago"
-    },
-    {
-      "headline": "Post Falls, St. Vincent de Paul team up to help people with utility bills",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/community/post-falls-st-vincent-de-paul-team-up-to-help-people-with-utility-bills/293-b4890a6b-18d1-465c-b9c6-3fba7becfc40",
-      "published": "2026-10-01T22:15:10+00:00",
       "time_ago": "3d ago"
     }
   ]
