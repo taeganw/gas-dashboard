@@ -1,40 +1,40 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-10-08 01:00 PM UTC",
+  "updated": "2026-10-09 01:00 PM UTC",
   "headlines": [
+    {
+      "headline": "Coeur d'Alene woman gets federal prison time for stealing $1M from employer",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/crime/coeur-dalene-woman-gets-federal-prison-time-for-stealing-1m-from-employer/293-765ed1f5-d861-423a-9086-4551b96db035",
+      "published": "2026-10-08T19:54:32+00:00",
+      "time_ago": "17h ago"
+    },
+    {
+      "headline": "'Safe Streets For All' plan looks to slow Dalton Gardens traffic",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/safe-streets-for-all-plan-looks-to-slow-dalton-gardens-traffic/293-b704ca47-8657-45b5-b3f4-ef976ac1bbe3",
+      "published": "2026-10-08T19:48:41+00:00",
+      "time_ago": "17h ago"
+    },
+    {
+      "headline": "Coeur d'Alene council denies request for 161-unit project",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-council-denies-request-for-161-unit-project/293-f9063dd1-84f5-4308-9c3d-9011c6242512",
+      "published": "2026-10-08T19:42:26+00:00",
+      "time_ago": "17h ago"
+    },
     {
       "headline": "Proposed sales tax in Sandpoint heads to November ballot",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/proposed-sales-tax-in-sandpoint-heads-to-november-ballot/293-a43977b8-fe27-4122-a8e9-c8966854f96c",
       "published": "2026-10-07T16:42:57+00:00",
-      "time_ago": "20h ago"
+      "time_ago": "1d ago"
     },
     {
       "headline": "Bonner County first responders praised after fire rescue",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/bonner-county-first-responders-praised-after-fire-rescue/293-9b23c94a-5ab4-4b45-8088-687b587f019c",
       "published": "2026-10-07T16:39:24+00:00",
-      "time_ago": "20h ago"
-    },
-    {
-      "headline": "Idaho prisons are out of room. The state's corrections agency wants $45.3M for three facilities under construction",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/idaho-prisons-are-out-room-states-corrections-agency-wants-453m-three-facilities/277-bfd1fa03-89b3-4f73-9c39-e780774052a4",
-      "published": "2026-10-07T12:48:15+00:00",
-      "time_ago": "1d ago"
-    },
-    {
-      "headline": "New Sandpoint Parking Committee to discuss recommendations amid paid parking controversy",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/new-sandpoint-parking-committee-to-discuss-recommendations-amid-paid-parking-controversy/293-3d0b2518-b59c-42f4-8c08-3a338bba0361",
-      "published": "2026-10-06T17:56:14+00:00",
-      "time_ago": "1d ago"
-    },
-    {
-      "headline": "Coeur d\u2019Alene rallies to raise funds for child's service dog",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-rallies-to-raise-funds-for-childs-service-dog/293-0136e1fc-ef9d-49d3-aabc-405c1e418e50",
-      "published": "2026-10-06T17:47:44+00:00",
       "time_ago": "1d ago"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-10-08 01:00 PM UTC",
+  "updated": "2026-10-09 01:00 PM UTC",
   "stations": [
     {
       "name": "Costco",
@@ -25,18 +25,18 @@
       "distance": 1.4
     },
     {
-      "name": "A-1 Smoke Shop",
-      "address": "7200 W Seltice Way, Post Falls",
-      "price": 4.39,
-      "formatted_price": "$4.39",
-      "distance": 5.0
-    },
-    {
       "name": "Liberty",
       "address": "6902 W Seltice Way, Post Falls",
       "price": 4.39,
       "formatted_price": "$4.39",
       "distance": 4.9
+    },
+    {
+      "name": "A-1 Smoke Shop",
+      "address": "7200 W Seltice Way, Post Falls",
+      "price": 4.39,
+      "formatted_price": "$4.39",
+      "distance": 5.0
     },
     {
       "name": "7-Eleven",
@@ -46,11 +46,11 @@
       "distance": 2.1
     },
     {
-      "name": "76",
-      "address": "1815 E Seltice Way, Post Falls",
+      "name": "Local Market Post Falls-Chevro",
+      "address": "4092 E Bogie Drive, Post Falls",
       "price": 4.39,
       "formatted_price": "$4.39",
-      "distance": 1.1
+      "distance": 2.2
     }
   ]
 }
