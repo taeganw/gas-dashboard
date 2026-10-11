@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-10-10 01:00 PM UTC",
+  "updated": "2026-10-11 01:00 PM UTC",
   "stations": [
     {
       "name": "Costco",
@@ -25,18 +25,25 @@
       "distance": 1.4
     },
     {
-      "name": "Exxon",
-      "address": "701 N Spokane St, Post Falls",
-      "price": 4.39,
-      "formatted_price": "$4.39",
-      "distance": 0.7
+      "name": "Phillips 66",
+      "address": "6308 W Lancaster Road, Rathdrum",
+      "price": 4.36,
+      "formatted_price": "$4.36",
+      "distance": 5.5
     },
     {
-      "name": "Local Market Post Falls-Chevro",
-      "address": "4092 E Bogie Drive, Post Falls",
+      "name": "Liberty",
+      "address": "6902 W Seltice Way, Post Falls",
       "price": 4.39,
       "formatted_price": "$4.39",
-      "distance": 2.2
+      "distance": 4.9
+    },
+    {
+      "name": "7-Eleven",
+      "address": "4093 E Poleline Ave, Post Falls",
+      "price": 4.39,
+      "formatted_price": "$4.39",
+      "distance": 2.1
     },
     {
       "name": "Maverik",
@@ -44,13 +51,6 @@
       "price": 4.39,
       "formatted_price": "$4.39",
       "distance": 1.9
-    },
-    {
-      "name": "Conoco",
-      "address": "2503 N ID-41, Post Falls",
-      "price": 4.39,
-      "formatted_price": "$4.39",
-      "distance": 2.0
     }
   ]
 }
