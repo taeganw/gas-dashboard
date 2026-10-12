@@ -1,20 +1,20 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-10-11 01:00 PM UTC",
+  "updated": "2026-10-12 01:00 PM UTC",
   "stations": [
     {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 4.35,
-      "formatted_price": "$4.35",
-      "distance": 7.1
+      "name": "A-1 Smoke Shop",
+      "address": "7200 W Seltice Way, Post Falls",
+      "price": 4.27,
+      "formatted_price": "$4.27",
+      "distance": 5.0
     },
     {
       "name": "Amerimart",
       "address": "7035 W Seltice Way, Post Falls",
-      "price": 4.35,
-      "formatted_price": "$4.35",
+      "price": 4.33,
+      "formatted_price": "$4.33",
       "distance": 5.0
     },
     {
@@ -25,18 +25,11 @@
       "distance": 1.4
     },
     {
-      "name": "Phillips 66",
-      "address": "6308 W Lancaster Road, Rathdrum",
-      "price": 4.36,
-      "formatted_price": "$4.36",
-      "distance": 5.5
-    },
-    {
-      "name": "Liberty",
-      "address": "6902 W Seltice Way, Post Falls",
+      "name": "Costco",
+      "address": "355 E Neider Ave, Coeur d'Alene",
       "price": 4.39,
       "formatted_price": "$4.39",
-      "distance": 4.9
+      "distance": 7.1
     },
     {
       "name": "7-Eleven",
@@ -46,11 +39,18 @@
       "distance": 2.1
     },
     {
-      "name": "Maverik",
-      "address": "847 North Highway 41, Post Falls",
+      "name": "Exxon",
+      "address": "701 N Spokane St, Post Falls",
       "price": 4.39,
       "formatted_price": "$4.39",
-      "distance": 1.9
+      "distance": 0.7
+    },
+    {
+      "name": "76",
+      "address": "1815 E Seltice Way, Post Falls",
+      "price": 4.39,
+      "formatted_price": "$4.39",
+      "distance": 1.1
     }
   ]
 }
