@@ -1,41 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-10-12 01:00 PM UTC",
+  "updated": "2026-10-13 01:00 PM UTC",
   "headlines": [
+    {
+      "headline": "'You just don't mess with Santa': Treasure Valley construction community builds home for scammed Kuna couple",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/treasure-valley-construction-community-builds-home-for-scammed-kuna-couple/277-bd75884a-5d96-4b39-ae9a-6727d94458fe",
+      "published": "2026-10-12T17:08:54+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Coeur d'Alene Police investigating rising number of \u2018door kick challenge\u2019 cases",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-police-investigating-rising-number-of-door-kick-challenge-cases/293-debe3d57-b93f-4f14-bccd-fcbb941bc0d0",
+      "published": "2026-10-12T17:04:41+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Coeur d\u2019Alene student, educator create children\u2019s book",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-student-educator-create-childrens-book/293-e0e0b3f6-d8db-4fb7-8f3f-7f8e096a2800",
+      "published": "2026-10-12T16:44:27+00:00",
+      "time_ago": "20h ago"
+    },
     {
       "headline": "Bill Thompson reflects on decades-long career, Kohberger prosecution as he announces retirement",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/bill-thompson-reflects-on-decades-long-career-kohberger-prosecution-as-he-announces-retirement/293-b313c932-ab49-452e-9454-2c351232690e",
       "published": "2026-10-09T23:01:30+00:00",
-      "time_ago": "2d ago"
+      "time_ago": "3d ago"
     },
     {
       "headline": "ITD offering free winter driving classes in Coeur d'Alene, Sandpoint",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/itd-free-winter-driving-classes-coeur-dalene-sandpoint/293-f7717ae4-2eb0-412a-8d29-4737e9178522",
       "published": "2026-10-09T17:51:53+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "Idaho governor pauses state diesel inspections for 30 days",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/idaho-governor-pauses-state-diesel-inspections-30-days/277-dadddf45-b394-4cb3-b953-819fcd7ee553",
-      "published": "2026-10-09T17:43:19+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "Dalton Gardens seniors learn how to spot banking scams",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/dalton-gardens-seniors-learn-how-to-spot-banking-scams/293-ca318882-75d0-4919-9a99-018d55d12d42",
-      "published": "2026-10-09T17:41:36+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "New film honors North Idaho medieval bookbinder",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/new-film-honors-north-idaho-medieval-bookbinder/293-c1647a85-bf04-4791-8537-b22266c49460",
-      "published": "2026-10-09T17:36:10+00:00",
-      "time_ago": "2d ago"
+      "time_ago": "3d ago"
     }
   ]
 }
