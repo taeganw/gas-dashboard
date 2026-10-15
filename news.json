@@ -1,41 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-10-14 01:02 PM UTC",
+  "updated": "2026-10-15 01:00 PM UTC",
   "headlines": [
+    {
+      "headline": "AG Raul Labrador sues OpenAI for deceiving Idaho parents about ChatGPT\u2019s safety",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/ag-raul-labrador-sues-openai-for-deceiving-idaho-parents-about-chatgpts-safety/293-2db552e4-4307-4643-be38-323047827abb",
+      "published": "2026-10-14T22:21:55+00:00",
+      "time_ago": "14h ago"
+    },
+    {
+      "headline": "Inaugural Sandpoint Idaho Film Fest ready to roll out red carpet",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/inaugural-sandpoint-film-fest-this-weekend/293-ada30121-23a2-40d9-acc4-50de78718604",
+      "published": "2026-10-14T17:17:03+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Idaho breweries unite to craft 'The People's Beer' for Christmas celebration at U.S. Capitol",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/idaho-breweries-unite-craft-peoples-beer-christmas-celebration-us-capitol/277-6a3373f5-d9a3-4b4e-ad04-1ae514c90a9e",
+      "published": "2026-10-14T17:14:04+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "'It's just incredible': Coeur d'Alene community raises nearly $20K to help child afford service dog",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-community-raises-20k-service-dog/293-8170e971-74de-43c3-b089-310647146aef",
+      "published": "2026-10-14T14:15:49+00:00",
+      "time_ago": "22h ago"
+    },
     {
       "headline": "Proposal to choose state gun triggers response from North Idaho firearm gurus",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/proposal-state-gun-triggers-response-north-idaho-firearm-gurus/293-4f511db8-71dd-49d4-8b49-38293e4ec3c6",
       "published": "2026-10-13T17:38:40+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "Hayden City Council to consider license-plate reader policy",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/hayden-city-council-license-plate-reader-policy/293-b2b0edad-e5ab-413f-bfba-b7850d67b4f9",
-      "published": "2026-10-13T17:27:28+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "'Incredibly horrific': Boise School District officials and trustees speak on Timberline threats in Monday's board meeting",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/incredibly-horrific-boise-school-district-officials-trustees-speak-on-timberline-threats-mondays-board-meeting/277-0d89a923-c5a7-4863-8590-706dd16ca6f3",
-      "published": "2026-10-13T17:24:46+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "Home turf advantage: New specialized flooring being installed at McEuen Park",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/new-flooring-installed-mceuen-park/293-d83e9ab6-2fe2-4ba7-b056-1f5a54d7367d",
-      "published": "2026-10-13T17:23:52+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "A wedding day detour: Idaho couple gets help reaching their own ceremony after crash closes Highway 21",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/a-wedding-day-detour-idaho-couple-gets-help-reaching-own-ceremony-after-crash-closes-highway-21/277-2eb5a27b-ae41-4686-bb64-cdcc82fc388f",
-      "published": "2026-10-13T15:38:16+00:00",
-      "time_ago": "21h ago"
+      "time_ago": "1d ago"
     }
   ]
 }
