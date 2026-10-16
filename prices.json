@@ -1,21 +1,21 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-10-15 01:00 PM UTC",
+  "updated": "2026-10-16 01:00 PM UTC",
   "stations": [
+    {
+      "name": "Costco",
+      "address": "355 E Neider Ave, Coeur d'Alene",
+      "price": 4.29,
+      "formatted_price": "$4.29",
+      "distance": 7.1
+    },
     {
       "name": "Walmart",
       "address": "3050 E Mullan Ave, Post Falls",
       "price": 4.29,
       "formatted_price": "$4.29",
       "distance": 1.4
-    },
-    {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 4.35,
-      "formatted_price": "$4.35",
-      "distance": 7.1
     },
     {
       "name": "Amerimart",
@@ -25,18 +25,18 @@
       "distance": 5.0
     },
     {
-      "name": "Local Market Post Falls-Chevro",
-      "address": "4092 E Bogie Drive, Post Falls",
-      "price": 4.37,
-      "formatted_price": "$4.37",
-      "distance": 2.2
+      "name": "Conoco",
+      "address": "2503 N ID-41, Post Falls",
+      "price": 4.35,
+      "formatted_price": "$4.35",
+      "distance": 2.0
     },
     {
-      "name": "Maverik",
-      "address": "847 North Highway 41, Post Falls",
+      "name": "76",
+      "address": "770 N ID-41, Post Falls",
       "price": 4.37,
       "formatted_price": "$4.37",
-      "distance": 1.9
+      "distance": 2.0
     },
     {
       "name": "Jifi Stop",
@@ -46,11 +46,11 @@
       "distance": 5.2
     },
     {
-      "name": "76",
-      "address": "770 N ID-41, Post Falls",
-      "price": 4.39,
-      "formatted_price": "$4.39",
-      "distance": 2.0
+      "name": "Local Market Post Falls-Chevro",
+      "address": "4092 E Bogie Drive, Post Falls",
+      "price": 4.37,
+      "formatted_price": "$4.37",
+      "distance": 2.2
     }
   ]
 }
