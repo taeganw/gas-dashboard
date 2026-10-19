@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-10-18 01:00 PM UTC",
+  "updated": "2026-10-19 01:00 PM UTC",
   "stations": [
     {
       "name": "Costco",
@@ -11,11 +11,11 @@
       "distance": 7.1
     },
     {
-      "name": "A-1 Smoke Shop",
-      "address": "7200 W Seltice Way, Post Falls",
+      "name": "Walmart",
+      "address": "3050 E Mullan Ave, Post Falls",
       "price": 4.29,
       "formatted_price": "$4.29",
-      "distance": 5.0
+      "distance": 1.4
     },
     {
       "name": "Amerimart",
@@ -25,18 +25,18 @@
       "distance": 5.0
     },
     {
-      "name": "Walmart",
-      "address": "3050 E Mullan Ave, Post Falls",
-      "price": 4.29,
-      "formatted_price": "$4.29",
-      "distance": 1.4
-    },
-    {
       "name": "Local Market Post Falls-Chevro",
       "address": "4092 E Bogie Drive, Post Falls",
       "price": 4.35,
       "formatted_price": "$4.35",
       "distance": 2.2
+    },
+    {
+      "name": "Flying J",
+      "address": "3636 W 5th Ave, Post Falls",
+      "price": 4.35,
+      "formatted_price": "$4.35",
+      "distance": 2.9
     },
     {
       "name": "Love's Travel Stop",
@@ -46,11 +46,11 @@
       "distance": 3.3
     },
     {
-      "name": "Flying J",
-      "address": "3636 W 5th Ave, Post Falls",
+      "name": "Jifi Stop",
+      "address": "7785 W Lancaster Rd, Rathdrum",
       "price": 4.35,
       "formatted_price": "$4.35",
-      "distance": 2.9
+      "distance": 5.2
     }
   ]
 }
