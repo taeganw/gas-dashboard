@@ -1,41 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-10-20 01:00 PM UTC",
+  "updated": "2026-10-21 01:00 PM UTC",
   "headlines": [
+    {
+      "headline": "Moscow City Attorney leaving job at the end of the year",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/moscow-city-attorney-leaving-job-at-the-end-of-the-year/293-eb6b6e66-8ce1-4e62-bea1-9a9d9598cdd5",
+      "published": "2026-10-20T21:11:04+00:00",
+      "time_ago": "15h ago"
+    },
+    {
+      "headline": "School district, city discuss turning former Kellogg school into new civic center",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/school-district-city-discuss-turning-former-kellogg-school-into-new-civic-center/293-71d4cf31-705e-4b80-94d6-3aad19526e9a",
+      "published": "2026-10-20T20:37:28+00:00",
+      "time_ago": "16h ago"
+    },
+    {
+      "headline": "Latah County Commissioners select replacement for retiring prosecutor Bill Thompson",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/latah-county-commissioners-select-replacement-prosecutor/293-9f5017e0-3525-4979-a2cd-4f9922750bac",
+      "published": "2026-10-20T19:19:01+00:00",
+      "time_ago": "17h ago"
+    },
+    {
+      "headline": "In remembrance: City eyes Independence Point for fallen firefighter dedication",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/special-reports/firefighters-killed-in-ambush/city-independence-point-fallen-firefighter-dedication/293-12951c40-6969-42da-bc22-92f0cf1c6105",
+      "published": "2026-10-20T17:07:37+00:00",
+      "time_ago": "19h ago"
+    },
     {
       "headline": "Sandpoint's Panida Theater launches fundraising effort ahead of centennial year",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/sandpoint-panida-theater-fundraising-effort-centennial-year/293-97fb50f2-474e-4185-959e-24fc7da24828",
       "published": "2026-10-19T17:16:00+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "2,582 miles, sore legs and a dream: Post Falls woman walks from Florida to Oregon",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/life/heartwarming/post-falls-woman-walks-florida-to-oregon/293-d2c408f2-3c8b-4d24-9eaa-97b103a15a16",
-      "published": "2026-10-19T17:08:07+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "Inaugural Sandpoint Idaho Film Fest aims to celebrate community and connection",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/inaugural-sandpoint-idaho-film-fest-celebrate-community/293-c24fd514-646a-42ed-8b7b-0009b01ce4ad",
-      "published": "2026-10-19T13:52:54+00:00",
-      "time_ago": "23h ago"
-    },
-    {
-      "headline": "'I'm a strong old grandma': 62-year-old Idaho weightlifter breaks world record",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/im-a-strong-old-grandma-62-year-old-weightlifter-breaks-world-record/277-b841ed56-8343-4846-8495-4c9fced4747c",
-      "published": "2026-10-19T13:35:28+00:00",
-      "time_ago": "23h ago"
-    },
-    {
-      "headline": "Sweet, sweet fall: Downtown Coeur d\u2019Alene hosts Apple Palooza, Harvest Market",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/entertainment/events/downtown-coeur-dalene-apple-palooza-harvest-market/293-82a4121d-8936-4ce0-8439-f587089f939f",
-      "published": "2026-10-16T18:58:39+00:00",
-      "time_ago": "3d ago"
+      "time_ago": "1d ago"
     }
   ]
 }

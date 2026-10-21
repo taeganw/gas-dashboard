@@ -1,15 +1,8 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-10-20 01:00 PM UTC",
+  "updated": "2026-10-21 01:00 PM UTC",
   "stations": [
-    {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 4.25,
-      "formatted_price": "$4.25",
-      "distance": 7.1
-    },
     {
       "name": "Amerimart",
       "address": "7035 W Seltice Way, Post Falls",
@@ -18,11 +11,25 @@
       "distance": 5.0
     },
     {
+      "name": "Costco",
+      "address": "355 E Neider Ave, Coeur d'Alene",
+      "price": 4.29,
+      "formatted_price": "$4.29",
+      "distance": 7.1
+    },
+    {
       "name": "Walmart",
       "address": "3050 E Mullan Ave, Post Falls",
       "price": 4.29,
       "formatted_price": "$4.29",
       "distance": 1.4
+    },
+    {
+      "name": "A-1 Smoke Shop",
+      "address": "7200 W Seltice Way, Post Falls",
+      "price": 4.31,
+      "formatted_price": "$4.31",
+      "distance": 5.0
     },
     {
       "name": "7-Eleven",
@@ -44,13 +51,6 @@
       "price": 4.35,
       "formatted_price": "$4.35",
       "distance": 2.2
-    },
-    {
-      "name": "Maverik",
-      "address": "5992 W Point Parkway, Post Falls",
-      "price": 4.35,
-      "formatted_price": "$4.35",
-      "distance": 4.5
     }
   ]
 }
