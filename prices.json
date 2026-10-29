@@ -1,56 +1,56 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-10-28 01:00 PM UTC",
+  "updated": "2026-10-29 01:00 PM UTC",
   "stations": [
+    {
+      "name": "Local Market Post Falls-Chevro",
+      "address": "4092 E Bogie Drive, Post Falls",
+      "price": 3.99,
+      "formatted_price": "$3.99",
+      "distance": 2.2
+    },
+    {
+      "name": "Maverik",
+      "address": "5992 W Point Parkway, Post Falls",
+      "price": 4.05,
+      "formatted_price": "$4.05",
+      "distance": 4.5
+    },
+    {
+      "name": "Flying J",
+      "address": "3636 W 5th Ave, Post Falls",
+      "price": 4.05,
+      "formatted_price": "$4.05",
+      "distance": 2.9
+    },
+    {
+      "name": "Love's Travel Stop",
+      "address": "4208 W Expo Pkwy, Post Falls",
+      "price": 4.05,
+      "formatted_price": "$4.05",
+      "distance": 3.3
+    },
+    {
+      "name": "Walmart",
+      "address": "3050 E Mullan Ave, Post Falls",
+      "price": 4.05,
+      "formatted_price": "$4.05",
+      "distance": 1.4
+    },
+    {
+      "name": "Costco",
+      "address": "355 E Neider Ave, Coeur d'Alene",
+      "price": 4.09,
+      "formatted_price": "$4.09",
+      "distance": 7.1
+    },
     {
       "name": "Amerimart",
       "address": "7035 W Seltice Way, Post Falls",
       "price": 4.09,
       "formatted_price": "$4.09",
       "distance": 5.0
-    },
-    {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 4.13,
-      "formatted_price": "$4.13",
-      "distance": 7.1
-    },
-    {
-      "name": "Maverik",
-      "address": "5992 W Point Parkway, Post Falls",
-      "price": 4.13,
-      "formatted_price": "$4.13",
-      "distance": 4.5
-    },
-    {
-      "name": "Flying J",
-      "address": "3636 W 5th Ave, Post Falls",
-      "price": 4.13,
-      "formatted_price": "$4.13",
-      "distance": 2.9
-    },
-    {
-      "name": "Love's Travel Stop",
-      "address": "4208 W Expo Pkwy, Post Falls",
-      "price": 4.13,
-      "formatted_price": "$4.13",
-      "distance": 3.3
-    },
-    {
-      "name": "Circle K",
-      "address": "70 N Beck Rd, Post Falls",
-      "price": 4.13,
-      "formatted_price": "$4.13",
-      "distance": 4.2
-    },
-    {
-      "name": "Walmart",
-      "address": "3050 E Mullan Ave, Post Falls",
-      "price": 4.13,
-      "formatted_price": "$4.13",
-      "distance": 1.4
     }
   ]
 }
