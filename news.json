@@ -1,40 +1,40 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-10-29 01:00 PM UTC",
+  "updated": "2026-10-30 01:00 PM UTC",
   "headlines": [
+    {
+      "headline": "The U.S. Capitol Christmas Tree will go on its Whistlestop Tour starting Friday",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/us-capitol-christmas-tree-whistlestop-tour-starting-friday/293-46502faf-489b-4af9-99f4-6b145ece80f4",
+      "published": "2026-10-30T03:45:33+00:00",
+      "time_ago": "9h ago"
+    },
+    {
+      "headline": "University of Idaho campus newly listed in National Register of Historic Places",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/university-of-idaho-campus-listed-national-register-historic-places/293-1020709c-ee3c-4163-9e7d-2de669507d5b",
+      "published": "2026-10-29T18:29:43+00:00",
+      "time_ago": "18h ago"
+    },
+    {
+      "headline": "Kootenai County invests in upgraded voting equipment before high-turnout midterm",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/politics/elections/kootenai-county-invests-in-upgraded-voting-equipment-before-high-turnout-midterm/293-bcbac67b-e0b4-4885-95b3-241f9c7e4c3d",
+      "published": "2026-10-29T17:12:45+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Avista eyes new energy project to meet growing demand near Lake Coeur d'Alene",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/avista-eyes-new-energy-project-to-meet-growing-demand-near-lake-coeur-dalene/293-e228440e-ff08-43c0-94d6-0c7abfb9346f",
+      "published": "2026-10-29T17:05:39+00:00",
+      "time_ago": "19h ago"
+    },
     {
       "headline": "Idaho to receive $186M for rural healthcare upgrades, Trump administration announces",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/idaho-to-receive-186m-rural-healthcare/277-19783747-e3fa-41d2-9ba2-b5f1f85be7a6",
       "published": "2026-10-28T19:04:07+00:00",
-      "time_ago": "17h ago"
-    },
-    {
-      "headline": "Historic preservation code advances to Sandpoint City Council",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/historic-preservation-code-sandpoint-city-council/293-a1655067-ecf3-4194-a55a-51334bddff41",
-      "published": "2026-10-28T17:35:31+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "For whom the distance tolls: Idaho Liberty Bell accumulates nearly 4,500 miles with Coeur d\u2019Alene visit",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/idaho-liberty-bell-coeur-dalene-visit/293-eb9cb783-3e3e-4ffc-932c-7d7e6184fddf",
-      "published": "2026-10-28T17:28:51+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "Hayden, Kootenai County remain at odds over law enforcement contract",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/hayden-kootenai-county-law-enforcement-contract-dispute/293-16394698-3a37-4a6d-8183-9feccdf1b922",
-      "published": "2026-10-28T17:24:15+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "Property disputes threaten funding for two Shoshone County bridge projects",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/property-disputes-threaten-funding-two-shoshone-county-bridge-projects/293-1a92e48a-0b78-4cc1-90ac-438a5ba48ead",
-      "published": "2026-10-28T01:12:38+00:00",
       "time_ago": "1d ago"
     }
   ]
