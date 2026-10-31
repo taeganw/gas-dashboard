@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-10-30 01:00 PM UTC",
+  "updated": "2026-10-31 01:00 PM UTC",
   "stations": [
     {
       "name": "Ross Point Market",
@@ -9,6 +9,20 @@
       "price": 3.89,
       "formatted_price": "$3.89",
       "distance": 2.1
+    },
+    {
+      "name": "A-1 Smoke Shop",
+      "address": "7200 W Seltice Way, Post Falls",
+      "price": 3.93,
+      "formatted_price": "$3.93",
+      "distance": 5.0
+    },
+    {
+      "name": "Costco",
+      "address": "355 E Neider Ave, Coeur d'Alene",
+      "price": 3.95,
+      "formatted_price": "$3.95",
+      "distance": 7.1
     },
     {
       "name": "Amerimart",
@@ -25,20 +39,6 @@
       "distance": 1.4
     },
     {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 3.99,
-      "formatted_price": "$3.99",
-      "distance": 7.1
-    },
-    {
-      "name": "Local Market Post Falls-Chevro",
-      "address": "4092 E Bogie Drive, Post Falls",
-      "price": 3.99,
-      "formatted_price": "$3.99",
-      "distance": 2.2
-    },
-    {
       "name": "Jifi Stop",
       "address": "7785 W Lancaster Rd, Rathdrum",
       "price": 3.99,
@@ -46,11 +46,11 @@
       "distance": 5.2
     },
     {
-      "name": "Maverik",
-      "address": "5992 W Point Parkway, Post Falls",
-      "price": 4.05,
-      "formatted_price": "$4.05",
-      "distance": 4.5
+      "name": "Local Market Post Falls-Chevro",
+      "address": "4092 E Bogie Drive, Post Falls",
+      "price": 3.99,
+      "formatted_price": "$3.99",
+      "distance": 2.2
     }
   ]
 }
