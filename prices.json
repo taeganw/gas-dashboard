@@ -1,22 +1,8 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-01 02:00 PM UTC",
+  "updated": "2026-11-02 02:00 PM UTC",
   "stations": [
-    {
-      "name": "Ross Point Market",
-      "address": "310 S Ross Point Rd, Post Falls",
-      "price": 3.89,
-      "formatted_price": "$3.89",
-      "distance": 2.1
-    },
-    {
-      "name": "A-1 Smoke Shop",
-      "address": "7200 W Seltice Way, Post Falls",
-      "price": 3.93,
-      "formatted_price": "$3.93",
-      "distance": 5.0
-    },
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
@@ -25,11 +11,32 @@
       "distance": 7.1
     },
     {
+      "name": "Amerimart",
+      "address": "7035 W Seltice Way, Post Falls",
+      "price": 3.95,
+      "formatted_price": "$3.95",
+      "distance": 5.0
+    },
+    {
       "name": "Walmart",
       "address": "3050 E Mullan Ave, Post Falls",
       "price": 3.95,
       "formatted_price": "$3.95",
       "distance": 1.4
+    },
+    {
+      "name": "Local Market Post Falls-Chevro",
+      "address": "4092 E Bogie Drive, Post Falls",
+      "price": 3.99,
+      "formatted_price": "$3.99",
+      "distance": 2.2
+    },
+    {
+      "name": "Maverik",
+      "address": "847 North Highway 41, Post Falls",
+      "price": 3.99,
+      "formatted_price": "$3.99",
+      "distance": 1.9
     },
     {
       "name": "76",
@@ -44,13 +51,6 @@
       "price": 3.99,
       "formatted_price": "$3.99",
       "distance": 5.2
-    },
-    {
-      "name": "Exxon",
-      "address": "4100 W Expo Pkwy, Post Falls",
-      "price": 4.05,
-      "formatted_price": "$4.05",
-      "distance": 3.2
     }
   ]
 }
