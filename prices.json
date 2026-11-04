@@ -1,13 +1,20 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-03 02:00 PM UTC",
+  "updated": "2026-11-04 02:00 PM UTC",
   "stations": [
+    {
+      "name": "Ross Point Market",
+      "address": "310 S Ross Point Rd, Post Falls",
+      "price": 3.83,
+      "formatted_price": "$3.83",
+      "distance": 2.1
+    },
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 3.95,
-      "formatted_price": "$3.95",
+      "price": 3.85,
+      "formatted_price": "$3.85",
       "distance": 7.1
     },
     {
@@ -25,32 +32,25 @@
       "distance": 2.0
     },
     {
-      "name": "Ross Point Market",
-      "address": "310 S Ross Point Rd, Post Falls",
+      "name": "Local Market Post Falls-Chevro",
+      "address": "4092 E Bogie Drive, Post Falls",
       "price": 3.99,
       "formatted_price": "$3.99",
-      "distance": 2.1
+      "distance": 2.2
+    },
+    {
+      "name": "Handy Mart",
+      "address": "312 N Spokane St, Post Falls",
+      "price": 3.99,
+      "formatted_price": "$3.99",
+      "distance": 0.9
     },
     {
       "name": "Maverik",
-      "address": "847 North Highway 41, Post Falls",
+      "address": "5992 W Point Parkway, Post Falls",
       "price": 3.99,
       "formatted_price": "$3.99",
-      "distance": 1.9
-    },
-    {
-      "name": "Walmart",
-      "address": "3050 E Mullan Ave, Post Falls",
-      "price": 3.99,
-      "formatted_price": "$3.99",
-      "distance": 1.4
-    },
-    {
-      "name": "Conoco",
-      "address": "2503 N ID-41, Post Falls",
-      "price": 3.99,
-      "formatted_price": "$3.99",
-      "distance": 2.0
+      "distance": 4.5
     }
   ]
 }
