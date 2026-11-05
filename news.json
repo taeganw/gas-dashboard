@@ -1,13 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-11-04 02:00 PM UTC",
+  "updated": "2026-11-05 02:00 PM UTC",
   "headlines": [
     {
-      "headline": "Idaho voters decide to reject Proposition 1",
+      "headline": "Idaho voters reject Proposition 1",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/politics/elections/what-is-idaho-proposition-1-2026-general-election/293-7a4ee866-ced9-4601-b60e-28ebb1dcf2b6",
-      "published": "2026-11-04T08:47:02+00:00",
-      "time_ago": "5h ago"
+      "published": "2026-11-04T22:27:56+00:00",
+      "time_ago": "15h ago"
+    },
+    {
+      "headline": "Idaho elects Sen. Jim Risch over independent Todd Achilles in U.S. Senate race",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/idaho-choose-between-sen-jim-risch-independent-todd-achilles/277-35d216c6-9317-4687-997e-bfaa73f18d72",
+      "published": "2026-11-04T22:18:37+00:00",
+      "time_ago": "15h ago"
+    },
+    {
+      "headline": "Prop 1: Idaho voters reject abortion ballot initiative",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/health/prop-1-idaho-reject-abortion-ballot-initiative-results-vote/277-710b4b76-f734-4c88-91a3-599bfbfe6ea5",
+      "published": "2026-11-04T22:17:03+00:00",
+      "time_ago": "15h ago"
+    },
+    {
+      "headline": "'Gun that Won the West': Idaho voters weigh in on official state gun ballot question",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/idaho-voters-weigh-official-state-gun-ballot-question/277-81fe699d-57b3-4bed-82d7-888d274cffbc",
+      "published": "2026-11-04T22:16:20+00:00",
+      "time_ago": "15h ago"
+    },
+    {
+      "headline": "Brad Little wins race for Idaho governor",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/brad-little-wins-race-idaho-governor-election-results/277-419069b8-2e56-48bc-b9c7-4001375c669e",
+      "published": "2026-11-04T22:14:51+00:00",
+      "time_ago": "15h ago"
     }
   ]
 }
