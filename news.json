@@ -1,40 +1,40 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-11-06 02:00 PM UTC",
+  "updated": "2026-11-07 02:00 PM UTC",
   "headlines": [
+    {
+      "headline": "Sandpoint moves forward on Euclid Water Access Project",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/sandpoint-moves-forward-on-euclid-water-access-project/293-871a1f46-5785-43a6-ab34-0043a736de18",
+      "published": "2026-11-06T18:35:03+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Removal of Silverwood letters causes social media stir",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/removal-of-silverwood-letters-causes-social-media-stir/293-518bd6c0-181b-44ba-b1f3-42c4b7274231",
+      "published": "2026-11-06T18:21:16+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Big Red's Barn fire in Coeur d'Alene sparks hometown help",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/big-reds-barn-fire-coeur-dalene/293-4fb58ac3-86c3-46e1-abad-1f512f368640",
+      "published": "2026-11-06T18:07:50+00:00",
+      "time_ago": "19h ago"
+    },
     {
       "headline": "City lands 'historic' grant for railroad crossing safety project",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/city-lands-historic-grant-railroad-crossing-safety-project/293-159da138-7751-438d-87ce-cc59fe602060",
       "published": "2026-11-05T19:25:46+00:00",
-      "time_ago": "18h ago"
+      "time_ago": "1d ago"
     },
     {
       "headline": "Prescribed burns underway near Cd'A",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/prescribed-burns-underway-near-cda/293-29403a23-57ab-4bd9-bb1d-d662d1132545",
       "published": "2026-11-05T19:18:59+00:00",
-      "time_ago": "18h ago"
-    },
-    {
-      "headline": "Setting boundaries: City seeks consistency in proclamations",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/setting-boundaries-city-seeks-consistency-proclamations/293-303eb93c-cb73-40d8-8c01-5b00faa1ef7f",
-      "published": "2026-11-05T19:11:16+00:00",
-      "time_ago": "18h ago"
-    },
-    {
-      "headline": "Idaho voters reject Proposition 1",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/politics/elections/what-is-idaho-proposition-1-2026-general-election/293-7a4ee866-ced9-4601-b60e-28ebb1dcf2b6",
-      "published": "2026-11-04T22:27:56+00:00",
-      "time_ago": "1d ago"
-    },
-    {
-      "headline": "Idaho elects Sen. Jim Risch over independent Todd Achilles in U.S. Senate race",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/idaho-choose-between-sen-jim-risch-independent-todd-achilles/277-35d216c6-9317-4687-997e-bfaa73f18d72",
-      "published": "2026-11-04T22:18:37+00:00",
       "time_ago": "1d ago"
     }
   ]

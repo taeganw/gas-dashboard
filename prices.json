@@ -1,14 +1,42 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-06 02:00 PM UTC",
+  "updated": "2026-11-07 02:00 PM UTC",
   "stations": [
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 3.79,
-      "formatted_price": "$3.79",
+      "price": 3.69,
+      "formatted_price": "$3.69",
       "distance": 7.1
+    },
+    {
+      "name": "A & D Mini Mart",
+      "address": "356 E Appleway Ave, Coeur d'Alene",
+      "price": 3.75,
+      "formatted_price": "$3.75",
+      "distance": 7.3
+    },
+    {
+      "name": "Maverik",
+      "address": "6415 North Ramsey Road, Coeur d Alene",
+      "price": 3.77,
+      "formatted_price": "$3.77",
+      "distance": 5.9
+    },
+    {
+      "name": "Maverik",
+      "address": "5525 North Government Way, Coeur d'Alene",
+      "price": 3.77,
+      "formatted_price": "$3.77",
+      "distance": 6.9
+    },
+    {
+      "name": "Ross Point Market",
+      "address": "310 S Ross Point Rd, Post Falls",
+      "price": 3.77,
+      "formatted_price": "$3.77",
+      "distance": 2.1
     },
     {
       "name": "Amerimart",
@@ -18,39 +46,11 @@
       "distance": 5.0
     },
     {
-      "name": "A & D Mini Mart",
-      "address": "356 E Appleway Ave, Coeur d'Alene",
-      "price": 3.87,
-      "formatted_price": "$3.87",
-      "distance": 7.3
-    },
-    {
       "name": "Circle K",
       "address": "312 W Haycraft Ave, Coeur d'Alene",
       "price": 3.89,
       "formatted_price": "$3.89",
       "distance": 6.8
-    },
-    {
-      "name": "Maverik",
-      "address": "6415 North Ramsey Road, Coeur d Alene",
-      "price": 3.89,
-      "formatted_price": "$3.89",
-      "distance": 5.9
-    },
-    {
-      "name": "Maverik",
-      "address": "5525 North Government Way, Coeur d'Alene",
-      "price": 3.89,
-      "formatted_price": "$3.89",
-      "distance": 6.9
-    },
-    {
-      "name": "Fred Meyer",
-      "address": "560 W Kathleen Ave, Coeur d'Alene",
-      "price": 3.89,
-      "formatted_price": "$3.89",
-      "distance": 6.6
     }
   ]
 }
