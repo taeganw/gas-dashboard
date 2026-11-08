@@ -1,14 +1,28 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-07 02:00 PM UTC",
+  "updated": "2026-11-08 02:00 PM UTC",
   "stations": [
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
+      "price": 3.65,
+      "formatted_price": "$3.65",
+      "distance": 7.1
+    },
+    {
+      "name": "Safeway",
+      "address": "121 W Neider Ave, Coeur d'Alene",
       "price": 3.69,
       "formatted_price": "$3.69",
-      "distance": 7.1
+      "distance": 7.0
+    },
+    {
+      "name": "Maverik",
+      "address": "5525 North Government Way, Coeur d'Alene",
+      "price": 3.69,
+      "formatted_price": "$3.69",
+      "distance": 6.9
     },
     {
       "name": "A & D Mini Mart",
@@ -25,32 +39,18 @@
       "distance": 5.9
     },
     {
-      "name": "Maverik",
-      "address": "5525 North Government Way, Coeur d'Alene",
-      "price": 3.77,
-      "formatted_price": "$3.77",
-      "distance": 6.9
-    },
-    {
-      "name": "Ross Point Market",
-      "address": "310 S Ross Point Rd, Post Falls",
-      "price": 3.77,
-      "formatted_price": "$3.77",
-      "distance": 2.1
-    },
-    {
-      "name": "Amerimart",
-      "address": "7035 W Seltice Way, Post Falls",
-      "price": 3.85,
-      "formatted_price": "$3.85",
-      "distance": 5.0
-    },
-    {
       "name": "Circle K",
       "address": "312 W Haycraft Ave, Coeur d'Alene",
-      "price": 3.89,
-      "formatted_price": "$3.89",
+      "price": 3.77,
+      "formatted_price": "$3.77",
       "distance": 6.8
+    },
+    {
+      "name": "Fred Meyer",
+      "address": "560 W Kathleen Ave, Coeur d'Alene",
+      "price": 3.77,
+      "formatted_price": "$3.77",
+      "distance": 6.6
     }
   ]
 }
