@@ -1,13 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-11-09 02:00 PM UTC",
+  "updated": "2026-11-10 02:00 PM UTC",
   "headlines": [
+    {
+      "headline": "Museum of North Idaho offering free admission on Veterans Day",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/museum-of-north-idaho-offering-free-admission-on-veterans-day/293-be924fb5-7f6a-4c28-be1e-d73739e4c5a5",
+      "published": "2026-11-09T18:05:33+00:00",
+      "time_ago": "19h ago"
+    },
     {
       "headline": "Pocatello City Council approves reserve funds for a $4.5 million settlement to family of Victor Perez",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/pocatello-city-council-vote-potential-payout-victor-perez-family/277-ec05228a-b2f2-464b-ad56-c2a8bec2f1de",
       "published": "2026-11-09T13:51:02+00:00",
-      "time_ago": "9m ago"
+      "time_ago": "1d ago"
+    },
+    {
+      "headline": "Sandpoint moves forward on Euclid Water Access Project",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/sandpoint-moves-forward-on-euclid-water-access-project/293-871a1f46-5785-43a6-ab34-0043a736de18",
+      "published": "2026-11-06T18:35:03+00:00",
+      "time_ago": "3d ago"
+    },
+    {
+      "headline": "Removal of Silverwood letters causes social media stir",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/removal-of-silverwood-letters-causes-social-media-stir/293-518bd6c0-181b-44ba-b1f3-42c4b7274231",
+      "published": "2026-11-06T18:21:16+00:00",
+      "time_ago": "3d ago"
+    },
+    {
+      "headline": "Big Red's Barn fire in Coeur d'Alene sparks hometown help",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/big-reds-barn-fire-coeur-dalene/293-4fb58ac3-86c3-46e1-abad-1f512f368640",
+      "published": "2026-11-06T18:07:50+00:00",
+      "time_ago": "3d ago"
     }
   ]
 }

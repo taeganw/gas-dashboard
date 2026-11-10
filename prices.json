@@ -1,8 +1,15 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-09 02:00 PM UTC",
+  "updated": "2026-11-10 02:00 PM UTC",
   "stations": [
+    {
+      "name": "Circle K",
+      "address": "312 W Haycraft Ave, Coeur d'Alene",
+      "price": 3.65,
+      "formatted_price": "$3.65",
+      "distance": 6.8
+    },
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
@@ -18,18 +25,18 @@
       "distance": 7.3
     },
     {
-      "name": "Safeway",
-      "address": "121 W Neider Ave, Coeur d'Alene",
-      "price": 3.69,
-      "formatted_price": "$3.69",
-      "distance": 7.0
-    },
-    {
       "name": "Maverik",
       "address": "6415 North Ramsey Road, Coeur d Alene",
       "price": 3.69,
       "formatted_price": "$3.69",
       "distance": 5.9
+    },
+    {
+      "name": "Safeway",
+      "address": "121 W Neider Ave, Coeur d'Alene",
+      "price": 3.69,
+      "formatted_price": "$3.69",
+      "distance": 7.0
     },
     {
       "name": "Maverik",
@@ -44,13 +51,6 @@
       "price": 3.72,
       "formatted_price": "$3.72",
       "distance": 2.0
-    },
-    {
-      "name": "7-Eleven",
-      "address": "114 E Appleway Ave, Coeur d'Alene",
-      "price": 3.73,
-      "formatted_price": "$3.73",
-      "distance": 7.1
     }
   ]
 }
