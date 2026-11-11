@@ -1,28 +1,35 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-10 02:00 PM UTC",
+  "updated": "2026-11-11 02:00 PM UTC",
   "stations": [
-    {
-      "name": "Circle K",
-      "address": "312 W Haycraft Ave, Coeur d'Alene",
-      "price": 3.65,
-      "formatted_price": "$3.65",
-      "distance": 6.8
-    },
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 3.65,
-      "formatted_price": "$3.65",
+      "price": 3.64,
+      "formatted_price": "$3.64",
       "distance": 7.1
     },
     {
-      "name": "Exxon",
-      "address": "2105 N 4th St, Coeur d'Alene",
+      "name": "Maverik",
+      "address": "5525 North Government Way, Coeur d'Alene",
+      "price": 3.64,
+      "formatted_price": "$3.64",
+      "distance": 6.9
+    },
+    {
+      "name": "A & D Mini Mart",
+      "address": "356 E Appleway Ave, Coeur d'Alene",
+      "price": 3.67,
+      "formatted_price": "$3.67",
+      "distance": 7.3
+    },
+    {
+      "name": "Circle K",
+      "address": "312 W Haycraft Ave, Coeur d'Alene",
       "price": 3.69,
       "formatted_price": "$3.69",
-      "distance": 7.3
+      "distance": 6.8
     },
     {
       "name": "Maverik",
@@ -39,18 +46,11 @@
       "distance": 7.0
     },
     {
-      "name": "Maverik",
-      "address": "5525 North Government Way, Coeur d'Alene",
+      "name": "Local Market Post Falls-Chevro",
+      "address": "4092 E Bogie Drive, Post Falls",
       "price": 3.69,
       "formatted_price": "$3.69",
-      "distance": 6.9
-    },
-    {
-      "name": "Chevron",
-      "address": "4092 E. Bogie Dr, Post Falls",
-      "price": 3.72,
-      "formatted_price": "$3.72",
-      "distance": 2.0
+      "distance": 2.2
     }
   ]
 }
