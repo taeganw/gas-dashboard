@@ -1,13 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-11-13 02:00 PM UTC",
+  "updated": "2026-11-14 02:00 PM UTC",
   "headlines": [
     {
-      "headline": "Man dead after fiery car vs. semi-truck crash on Highway 53 north of Post Falls",
+      "headline": "Trial continues for man accused of killing mother",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/crime/trial-continues-for-man-accused-of-killing-mother/293-0d30be53-3b20-445b-8139-44ea67c7ba27",
+      "published": "2026-11-14T03:31:43+00:00",
+      "time_ago": "10h ago"
+    },
+    {
+      "headline": "Spokane Valley man dead after fiery car vs. semi-truck crash on Highway 53 north of Post Falls",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/deadly-car-semi-truck-crash-highway-53/293-f25db39e-513f-4f61-bc01-9585a3e83447",
-      "published": "2026-11-13T13:28:59+00:00",
-      "time_ago": "31m ago"
+      "published": "2026-11-14T00:19:45+00:00",
+      "time_ago": "13h ago"
+    },
+    {
+      "headline": "Idaho Gov. Brad Little proclaims Nov. 13-15 'College GameDay Weekend'",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/sports/local-sports/idaho-gov-brad-little-proclaims-nov-13-15-college-gameday-weekend/293-a42e221a-99c5-424a-8484-43f2ae2e7589",
+      "published": "2026-11-13T23:39:07+00:00",
+      "time_ago": "14h ago"
+    },
+    {
+      "headline": "Post Falls veterans honored with Quilts of Valor",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/post-falls-veterans-honored-with-quilts-of-valor/293-acb2b062-095e-4492-8292-8b512a147eba",
+      "published": "2026-11-12T20:30:20+00:00",
+      "time_ago": "1d ago"
+    },
+    {
+      "headline": "SW replacement card costs pending",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/sw-replacement-card-costs-pending/293-b69fcab2-3746-4ef6-90db-f7fda0648279",
+      "published": "2026-11-12T20:05:29+00:00",
+      "time_ago": "1d ago"
     }
   ]
 }

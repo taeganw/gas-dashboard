@@ -1,8 +1,29 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-13 02:00 PM UTC",
+  "updated": "2026-11-14 02:00 PM UTC",
   "stations": [
+    {
+      "name": "Costco",
+      "address": "355 E Neider Ave, Coeur d'Alene",
+      "price": 3.49,
+      "formatted_price": "$3.49",
+      "distance": 7.1
+    },
+    {
+      "name": "Walmart",
+      "address": "3050 E Mullan Ave, Post Falls",
+      "price": 3.51,
+      "formatted_price": "$3.51",
+      "distance": 1.4
+    },
+    {
+      "name": "Maverik",
+      "address": "5525 North Government Way, Coeur d'Alene",
+      "price": 3.52,
+      "formatted_price": "$3.52",
+      "distance": 6.9
+    },
     {
       "name": "Mobil",
       "address": "502 W Appleway Ave, Coeur d'Alene",
@@ -25,32 +46,11 @@
       "distance": 6.8
     },
     {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 3.55,
-      "formatted_price": "$3.55",
-      "distance": 7.1
-    },
-    {
-      "name": "Maverik",
-      "address": "6415 North Ramsey Road, Coeur d Alene",
-      "price": 3.55,
-      "formatted_price": "$3.55",
-      "distance": 5.9
-    },
-    {
       "name": "Circle K",
       "address": "312 W Haycraft Ave, Coeur d'Alene",
       "price": 3.55,
       "formatted_price": "$3.55",
       "distance": 6.8
-    },
-    {
-      "name": "Safeway",
-      "address": "121 W Neider Ave, Coeur d'Alene",
-      "price": 3.55,
-      "formatted_price": "$3.55",
-      "distance": 7.0
     }
   ]
 }
