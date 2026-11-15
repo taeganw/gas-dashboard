@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-14 02:00 PM UTC",
+  "updated": "2026-11-15 02:00 PM UTC",
   "current_price": 3.49,
   "trends": [
     {
       "label": "This Week",
       "available": true,
-      "compare_date": "2026-11-07",
-      "compare_price": 3.69,
-      "diff": -0.19999999999999973,
-      "pct": -5.4200542005419985
+      "compare_date": "2026-11-08",
+      "compare_price": 3.65,
+      "diff": -0.1599999999999997,
+      "pct": -4.383561643835608
     },
     {
       "label": "This Month",
       "available": true,
-      "compare_date": "2026-10-15",
+      "compare_date": "2026-10-16",
       "compare_price": 4.29,
       "diff": -0.7999999999999998,
       "pct": -18.648018648018645

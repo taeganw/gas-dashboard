@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-14 02:00 PM UTC",
+  "updated": "2026-11-15 02:00 PM UTC",
   "stations": [
     {
       "name": "Costco",
@@ -18,11 +18,11 @@
       "distance": 1.4
     },
     {
-      "name": "Maverik",
-      "address": "5525 North Government Way, Coeur d'Alene",
-      "price": 3.52,
-      "formatted_price": "$3.52",
-      "distance": 6.9
+      "name": "Chevron",
+      "address": "4092 E. Bogie Dr, Post Falls",
+      "price": 3.54,
+      "formatted_price": "$3.54",
+      "distance": 2.0
     },
     {
       "name": "Mobil",
@@ -30,6 +30,13 @@
       "price": 3.55,
       "formatted_price": "$3.55",
       "distance": 6.8
+    },
+    {
+      "name": "7-Eleven",
+      "address": "114 E Appleway Ave, Coeur d'Alene",
+      "price": 3.55,
+      "formatted_price": "$3.55",
+      "distance": 7.1
     },
     {
       "name": "Exxon",
@@ -41,13 +48,6 @@
     {
       "name": "Exxon",
       "address": "350 W Appleway Ave, Coeur d'Alene",
-      "price": 3.55,
-      "formatted_price": "$3.55",
-      "distance": 6.8
-    },
-    {
-      "name": "Circle K",
-      "address": "312 W Haycraft Ave, Coeur d'Alene",
       "price": 3.55,
       "formatted_price": "$3.55",
       "distance": 6.8
