@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-16 02:00 PM UTC",
+  "updated": "2026-11-17 02:00 PM UTC",
   "stations": [
     {
       "name": "Costco",
@@ -32,11 +32,11 @@
       "distance": 2.0
     },
     {
-      "name": "7-Eleven",
-      "address": "114 E Appleway Ave, Coeur d'Alene",
+      "name": "Mobil",
+      "address": "502 W Appleway Ave, Coeur d'Alene",
       "price": 3.55,
       "formatted_price": "$3.55",
-      "distance": 7.1
+      "distance": 6.8
     },
     {
       "name": "Exxon",
@@ -46,11 +46,11 @@
       "distance": 6.8
     },
     {
-      "name": "Mobil",
-      "address": "502 W Appleway Ave, Coeur d'Alene",
+      "name": "7-Eleven",
+      "address": "114 E Appleway Ave, Coeur d'Alene",
       "price": 3.55,
       "formatted_price": "$3.55",
-      "distance": 6.8
+      "distance": 7.1
     }
   ]
 }
