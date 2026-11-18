@@ -1,41 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-11-15 02:00 PM UTC",
+  "updated": "2026-11-18 02:00 PM UTC",
   "headlines": [
     {
-      "headline": "Trial continues for man accused of killing mother",
+      "headline": "Experts expect busy roads and crowded flights for holidays",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/crime/trial-continues-for-man-accused-of-killing-mother/293-0d30be53-3b20-445b-8139-44ea67c7ba27",
-      "published": "2026-11-14T03:31:43+00:00",
+      "link": "https://www.krem.com/article/news/local/idaho/experts-expect-busy-roads-crowded-flights-holidays/293-9503c6b9-adc4-45bc-9046-b05266a4f709",
+      "published": "2026-11-17T19:27:11+00:00",
+      "time_ago": "18h ago"
+    },
+    {
+      "headline": "Coeur d\u2019Alene Rec Department buckets revenue increases",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-rec-department-buckets-revenue-increases/293-5f9bacb2-5bab-47df-9c42-3d431dde688f",
+      "published": "2026-11-17T19:05:23+00:00",
+      "time_ago": "18h ago"
+    },
+    {
+      "headline": "Four Timberline football players sue over discipline tied to alleged threats of sexual violence",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/four-timberline-football-players-sue-discipline-tied-alleged-threats-sexual-violence/277-bd39a5e4-d758-4fd1-8b04-1daa955e9488",
+      "published": "2026-11-17T18:07:59+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Coeur d'Alene Police determined \"unexploded device\" that prompted evacuations is a commercial firework",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-police-evacuating-residents-unexploded-bomb/293-7b5bc00f-defb-4fa8-a734-85d5842c1397",
+      "published": "2026-11-17T18:04:39+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "The long paw of the law: Bonners Ferry introduces K-9 program",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/the-long-paw-of-the-law-bonners-ferry-introduces-k-9-program/293-4c225fb6-1328-40b7-aa66-808c547c6e68",
+      "published": "2026-11-16T21:22:22+00:00",
       "time_ago": "1d ago"
-    },
-    {
-      "headline": "Spokane Valley man dead after fiery car vs. semi-truck crash on Highway 53 north of Post Falls",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/deadly-car-semi-truck-crash-highway-53/293-f25db39e-513f-4f61-bc01-9585a3e83447",
-      "published": "2026-11-14T00:19:45+00:00",
-      "time_ago": "1d ago"
-    },
-    {
-      "headline": "Idaho Gov. Brad Little proclaims Nov. 13-15 'College GameDay Weekend'",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/sports/local-sports/idaho-gov-brad-little-proclaims-nov-13-15-college-gameday-weekend/293-a42e221a-99c5-424a-8484-43f2ae2e7589",
-      "published": "2026-11-13T23:39:07+00:00",
-      "time_ago": "1d ago"
-    },
-    {
-      "headline": "Post Falls veterans honored with Quilts of Valor",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/post-falls-veterans-honored-with-quilts-of-valor/293-acb2b062-095e-4492-8292-8b512a147eba",
-      "published": "2026-11-12T20:30:20+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "SW replacement card costs pending",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/sw-replacement-card-costs-pending/293-b69fcab2-3746-4ef6-90db-f7fda0648279",
-      "published": "2026-11-12T20:05:29+00:00",
-      "time_ago": "2d ago"
     }
   ]
 }

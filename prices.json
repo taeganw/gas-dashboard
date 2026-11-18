@@ -1,21 +1,42 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-17 02:00 PM UTC",
+  "updated": "2026-11-18 02:00 PM UTC",
   "stations": [
+    {
+      "name": "Safeway",
+      "address": "121 W Neider Ave, Coeur d'Alene",
+      "price": 3.44,
+      "formatted_price": "$3.44",
+      "distance": 7.0
+    },
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 3.49,
-      "formatted_price": "$3.49",
+      "price": 3.44,
+      "formatted_price": "$3.44",
       "distance": 7.1
     },
     {
       "name": "Walmart",
       "address": "3050 E Mullan Ave, Post Falls",
+      "price": 3.45,
+      "formatted_price": "$3.45",
+      "distance": 1.4
+    },
+    {
+      "name": "Circle K",
+      "address": "312 W Haycraft Ave, Coeur d'Alene",
       "price": 3.49,
       "formatted_price": "$3.49",
-      "distance": 1.4
+      "distance": 6.8
+    },
+    {
+      "name": "A & D Mini Mart",
+      "address": "356 E Appleway Ave, Coeur d'Alene",
+      "price": 3.52,
+      "formatted_price": "$3.52",
+      "distance": 7.3
     },
     {
       "name": "Conoco",
@@ -30,27 +51,6 @@
       "price": 3.54,
       "formatted_price": "$3.54",
       "distance": 2.0
-    },
-    {
-      "name": "Mobil",
-      "address": "502 W Appleway Ave, Coeur d'Alene",
-      "price": 3.55,
-      "formatted_price": "$3.55",
-      "distance": 6.8
-    },
-    {
-      "name": "Exxon",
-      "address": "350 W Appleway Ave, Coeur d'Alene",
-      "price": 3.55,
-      "formatted_price": "$3.55",
-      "distance": 6.8
-    },
-    {
-      "name": "7-Eleven",
-      "address": "114 E Appleway Ave, Coeur d'Alene",
-      "price": 3.55,
-      "formatted_price": "$3.55",
-      "distance": 7.1
     }
   ]
 }
