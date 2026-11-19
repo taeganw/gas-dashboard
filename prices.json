@@ -1,8 +1,22 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-18 02:00 PM UTC",
+  "updated": "2026-11-19 02:00 PM UTC",
   "stations": [
+    {
+      "name": "Costco",
+      "address": "355 E Neider Ave, Coeur d'Alene",
+      "price": 3.44,
+      "formatted_price": "$3.44",
+      "distance": 7.1
+    },
+    {
+      "name": "Maverik",
+      "address": "5525 North Government Way, Coeur d'Alene",
+      "price": 3.44,
+      "formatted_price": "$3.44",
+      "distance": 6.9
+    },
     {
       "name": "Safeway",
       "address": "121 W Neider Ave, Coeur d'Alene",
@@ -11,11 +25,18 @@
       "distance": 7.0
     },
     {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 3.44,
-      "formatted_price": "$3.44",
-      "distance": 7.1
+      "name": "A & D Mini Mart",
+      "address": "356 E Appleway Ave, Coeur d'Alene",
+      "price": 3.45,
+      "formatted_price": "$3.45",
+      "distance": 7.3
+    },
+    {
+      "name": "Amerimart",
+      "address": "7035 W Seltice Way, Post Falls",
+      "price": 3.45,
+      "formatted_price": "$3.45",
+      "distance": 5.0
     },
     {
       "name": "Walmart",
@@ -25,31 +46,10 @@
       "distance": 1.4
     },
     {
-      "name": "Circle K",
-      "address": "312 W Haycraft Ave, Coeur d'Alene",
-      "price": 3.49,
-      "formatted_price": "$3.49",
-      "distance": 6.8
-    },
-    {
-      "name": "A & D Mini Mart",
-      "address": "356 E Appleway Ave, Coeur d'Alene",
-      "price": 3.52,
-      "formatted_price": "$3.52",
-      "distance": 7.3
-    },
-    {
       "name": "Conoco",
-      "address": "798 N ID-53, Rathdrum",
-      "price": 3.52,
-      "formatted_price": "$3.52",
-      "distance": 6.8
-    },
-    {
-      "name": "Chevron",
-      "address": "4092 E. Bogie Dr, Post Falls",
-      "price": 3.54,
-      "formatted_price": "$3.54",
+      "address": "2503 N ID-41, Post Falls",
+      "price": 3.45,
+      "formatted_price": "$3.45",
       "distance": 2.0
     }
   ]

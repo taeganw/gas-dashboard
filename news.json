@@ -1,41 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-11-18 02:00 PM UTC",
+  "updated": "2026-11-19 02:00 PM UTC",
   "headlines": [
     {
-      "headline": "Experts expect busy roads and crowded flights for holidays",
+      "headline": "Trial set after man pleads innocent in fatal shooting",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/experts-expect-busy-roads-crowded-flights-holidays/293-9503c6b9-adc4-45bc-9046-b05266a4f709",
-      "published": "2026-11-17T19:27:11+00:00",
+      "link": "https://www.krem.com/article/news/crime/trial-set-after-man-pleads-innocent-in-fatal-shooting/293-08417dd1-f597-4bb0-a66b-ef70e831fdf7",
+      "published": "2026-11-18T22:18:29+00:00",
+      "time_ago": "15h ago"
+    },
+    {
+      "headline": "Kootenai County median-home price hits $570K",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/kootenai-county-median-home-price-hits-570k/293-47a3eca5-030f-4520-9dcb-318987a680f7",
+      "published": "2026-11-18T22:12:32+00:00",
+      "time_ago": "15h ago"
+    },
+    {
+      "headline": "PF mayor unveils 20-year vision for a growing Post Falls in State of the City",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/politics/pf-mayor-unveils-20-year-vision-for-a-growing-post-falls-in-state-of-the-city/293-8ea0f0b1-fc7e-4e04-9429-86f8e64c8362",
+      "published": "2026-11-18T22:06:19+00:00",
+      "time_ago": "15h ago"
+    },
+    {
+      "headline": "Police get 2% market wage adjustment",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/police-get-2-market-wage-adjustment/293-0ffffb14-0a3c-488f-994e-0150680db535",
+      "published": "2026-11-18T19:14:47+00:00",
       "time_ago": "18h ago"
     },
     {
-      "headline": "Coeur d\u2019Alene Rec Department buckets revenue increases",
+      "headline": "North Idaho College celebrates new American Indian Student Center",
       "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-rec-department-buckets-revenue-increases/293-5f9bacb2-5bab-47df-9c42-3d431dde688f",
-      "published": "2026-11-17T19:05:23+00:00",
+      "link": "https://www.krem.com/article/news/local/idaho/north-idaho-college-celebrates-new-american-indian-student-center/293-0071366a-5c84-4b93-9787-9c36bf3a89d1",
+      "published": "2026-11-18T19:09:03+00:00",
       "time_ago": "18h ago"
-    },
-    {
-      "headline": "Four Timberline football players sue over discipline tied to alleged threats of sexual violence",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/four-timberline-football-players-sue-discipline-tied-alleged-threats-sexual-violence/277-bd39a5e4-d758-4fd1-8b04-1daa955e9488",
-      "published": "2026-11-17T18:07:59+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "Coeur d'Alene Police determined \"unexploded device\" that prompted evacuations is a commercial firework",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-police-evacuating-residents-unexploded-bomb/293-7b5bc00f-defb-4fa8-a734-85d5842c1397",
-      "published": "2026-11-17T18:04:39+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "The long paw of the law: Bonners Ferry introduces K-9 program",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/the-long-paw-of-the-law-bonners-ferry-introduces-k-9-program/293-4c225fb6-1328-40b7-aa66-808c547c6e68",
-      "published": "2026-11-16T21:22:22+00:00",
-      "time_ago": "1d ago"
     }
   ]
 }
