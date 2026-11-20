@@ -1,41 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-11-19 02:00 PM UTC",
+  "updated": "2026-11-20 02:00 PM UTC",
   "headlines": [
+    {
+      "headline": "Boundary County School District gets perfect score on annual audit",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/boundary-county-school-district-gets-perfect-score-on-annual-audit/293-a66e3f3c-632c-4ff9-83eb-78f5d7530801",
+      "published": "2026-11-19T18:27:31+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Coeur d'Alene's Tony Mills joins documentary on grizzlies and coexistence",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalenes-tony-mills-joins-documentary-on-grizzlies-and-coexistence/293-eab838e5-af7b-4f28-be3e-e28696607fa6",
+      "published": "2026-11-19T18:21:36+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Chronic wasting disease detected in Idaho mule deer along Snake River",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/chronic-wasting-disease-detected-idaho-mule-deer-snake-river/277-c1b57284-5f93-4ddc-a5db-0c612fe0edf7",
+      "published": "2026-11-19T15:38:11+00:00",
+      "time_ago": "22h ago"
+    },
     {
       "headline": "Trial set after man pleads innocent in fatal shooting",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/crime/trial-set-after-man-pleads-innocent-in-fatal-shooting/293-08417dd1-f597-4bb0-a66b-ef70e831fdf7",
       "published": "2026-11-18T22:18:29+00:00",
-      "time_ago": "15h ago"
+      "time_ago": "1d ago"
     },
     {
       "headline": "Kootenai County median-home price hits $570K",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/kootenai-county-median-home-price-hits-570k/293-47a3eca5-030f-4520-9dcb-318987a680f7",
       "published": "2026-11-18T22:12:32+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "headline": "PF mayor unveils 20-year vision for a growing Post Falls in State of the City",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/politics/pf-mayor-unveils-20-year-vision-for-a-growing-post-falls-in-state-of-the-city/293-8ea0f0b1-fc7e-4e04-9429-86f8e64c8362",
-      "published": "2026-11-18T22:06:19+00:00",
-      "time_ago": "15h ago"
-    },
-    {
-      "headline": "Police get 2% market wage adjustment",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/police-get-2-market-wage-adjustment/293-0ffffb14-0a3c-488f-994e-0150680db535",
-      "published": "2026-11-18T19:14:47+00:00",
-      "time_ago": "18h ago"
-    },
-    {
-      "headline": "North Idaho College celebrates new American Indian Student Center",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/north-idaho-college-celebrates-new-american-indian-student-center/293-0071366a-5c84-4b93-9787-9c36bf3a89d1",
-      "published": "2026-11-18T19:09:03+00:00",
-      "time_ago": "18h ago"
+      "time_ago": "1d ago"
     }
   ]
 }
