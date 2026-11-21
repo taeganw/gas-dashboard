@@ -1,28 +1,42 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-20 02:00 PM UTC",
+  "updated": "2026-11-21 02:00 PM UTC",
   "stations": [
-    {
-      "name": "Jifi Stop",
-      "address": "7785 W Lancaster Rd, Rathdrum",
-      "price": 3.35,
-      "formatted_price": "$3.35",
-      "distance": 5.2
-    },
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 3.39,
-      "formatted_price": "$3.39",
+      "price": 3.35,
+      "formatted_price": "$3.35",
       "distance": 7.1
     },
     {
-      "name": "Circle K",
-      "address": "312 W Haycraft Ave, Coeur d'Alene",
+      "name": "A-1 Smoke Shop",
+      "address": "7200 W Seltice Way, Post Falls",
+      "price": 3.41,
+      "formatted_price": "$3.41",
+      "distance": 5.0
+    },
+    {
+      "name": "Amerimart",
+      "address": "7035 W Seltice Way, Post Falls",
+      "price": 3.41,
+      "formatted_price": "$3.41",
+      "distance": 5.0
+    },
+    {
+      "name": "Walmart",
+      "address": "3050 E Mullan Ave, Post Falls",
+      "price": 3.43,
+      "formatted_price": "$3.43",
+      "distance": 1.4
+    },
+    {
+      "name": "7-Eleven",
+      "address": "114 E Appleway Ave, Coeur d'Alene",
       "price": 3.44,
       "formatted_price": "$3.44",
-      "distance": 6.8
+      "distance": 7.1
     },
     {
       "name": "Maverik",
@@ -32,25 +46,11 @@
       "distance": 5.9
     },
     {
-      "name": "Maverik",
-      "address": "5525 North Government Way, Coeur d'Alene",
+      "name": "Circle K",
+      "address": "312 W Haycraft Ave, Coeur d'Alene",
       "price": 3.44,
       "formatted_price": "$3.44",
-      "distance": 6.9
-    },
-    {
-      "name": "Safeway",
-      "address": "121 W Neider Ave, Coeur d'Alene",
-      "price": 3.44,
-      "formatted_price": "$3.44",
-      "distance": 7.0
-    },
-    {
-      "name": "A & D Mini Mart",
-      "address": "356 E Appleway Ave, Coeur d'Alene",
-      "price": 3.45,
-      "formatted_price": "$3.45",
-      "distance": 7.3
+      "distance": 6.8
     }
   ]
 }
