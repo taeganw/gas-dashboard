@@ -1,7 +1,7 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-21 02:00 PM UTC",
+  "updated": "2026-11-22 02:00 PM UTC",
   "stations": [
     {
       "name": "Costco",
@@ -11,15 +11,29 @@
       "distance": 7.1
     },
     {
-      "name": "A-1 Smoke Shop",
-      "address": "7200 W Seltice Way, Post Falls",
+      "name": "76",
+      "address": "1815 E Seltice Way, Post Falls",
+      "price": 3.35,
+      "formatted_price": "$3.35",
+      "distance": 1.1
+    },
+    {
+      "name": "Jifi Stop",
+      "address": "7785 W Lancaster Rd, Rathdrum",
+      "price": 3.35,
+      "formatted_price": "$3.35",
+      "distance": 5.2
+    },
+    {
+      "name": "Amerimart",
+      "address": "7035 W Seltice Way, Post Falls",
       "price": 3.41,
       "formatted_price": "$3.41",
       "distance": 5.0
     },
     {
-      "name": "Amerimart",
-      "address": "7035 W Seltice Way, Post Falls",
+      "name": "A-1 Smoke Shop",
+      "address": "7200 W Seltice Way, Post Falls",
       "price": 3.41,
       "formatted_price": "$3.41",
       "distance": 5.0
@@ -37,20 +51,6 @@
       "price": 3.44,
       "formatted_price": "$3.44",
       "distance": 7.1
-    },
-    {
-      "name": "Maverik",
-      "address": "6415 North Ramsey Road, Coeur d Alene",
-      "price": 3.44,
-      "formatted_price": "$3.44",
-      "distance": 5.9
-    },
-    {
-      "name": "Circle K",
-      "address": "312 W Haycraft Ave, Coeur d'Alene",
-      "price": 3.44,
-      "formatted_price": "$3.44",
-      "distance": 6.8
     }
   ]
 }
