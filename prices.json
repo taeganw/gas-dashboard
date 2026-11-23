@@ -1,14 +1,35 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-22 02:00 PM UTC",
+  "updated": "2026-11-23 02:00 PM UTC",
   "stations": [
+    {
+      "name": "Walmart",
+      "address": "3050 E Mullan Ave, Post Falls",
+      "price": 3.25,
+      "formatted_price": "$3.25",
+      "distance": 1.4
+    },
     {
       "name": "Costco",
       "address": "355 E Neider Ave, Coeur d'Alene",
+      "price": 3.29,
+      "formatted_price": "$3.29",
+      "distance": 7.1
+    },
+    {
+      "name": "Local Market Post Falls-Chevro",
+      "address": "4092 E Bogie Drive, Post Falls",
       "price": 3.35,
       "formatted_price": "$3.35",
-      "distance": 7.1
+      "distance": 2.2
+    },
+    {
+      "name": "Maverik",
+      "address": "847 North Highway 41, Post Falls",
+      "price": 3.35,
+      "formatted_price": "$3.35",
+      "distance": 1.9
     },
     {
       "name": "76",
@@ -30,27 +51,6 @@
       "price": 3.41,
       "formatted_price": "$3.41",
       "distance": 5.0
-    },
-    {
-      "name": "A-1 Smoke Shop",
-      "address": "7200 W Seltice Way, Post Falls",
-      "price": 3.41,
-      "formatted_price": "$3.41",
-      "distance": 5.0
-    },
-    {
-      "name": "Walmart",
-      "address": "3050 E Mullan Ave, Post Falls",
-      "price": 3.43,
-      "formatted_price": "$3.43",
-      "distance": 1.4
-    },
-    {
-      "name": "7-Eleven",
-      "address": "114 E Appleway Ave, Coeur d'Alene",
-      "price": 3.44,
-      "formatted_price": "$3.44",
-      "distance": 7.1
     }
   ]
 }
