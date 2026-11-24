@@ -1,8 +1,22 @@
 {
   "center": "83854",
   "radius_miles": 8,
-  "updated": "2026-11-23 02:00 PM UTC",
+  "updated": "2026-11-24 02:00 PM UTC",
   "stations": [
+    {
+      "name": "Ross Point Market",
+      "address": "310 S Ross Point Rd, Post Falls",
+      "price": 3.09,
+      "formatted_price": "$3.09",
+      "distance": 2.1
+    },
+    {
+      "name": "Costco",
+      "address": "355 E Neider Ave, Coeur d'Alene",
+      "price": 3.25,
+      "formatted_price": "$3.25",
+      "distance": 7.1
+    },
     {
       "name": "Walmart",
       "address": "3050 E Mullan Ave, Post Falls",
@@ -11,18 +25,25 @@
       "distance": 1.4
     },
     {
-      "name": "Costco",
-      "address": "355 E Neider Ave, Coeur d'Alene",
-      "price": 3.29,
-      "formatted_price": "$3.29",
-      "distance": 7.1
+      "name": "A & D Mini Mart",
+      "address": "356 E Appleway Ave, Coeur d'Alene",
+      "price": 3.33,
+      "formatted_price": "$3.33",
+      "distance": 7.3
     },
     {
-      "name": "Local Market Post Falls-Chevro",
-      "address": "4092 E Bogie Drive, Post Falls",
+      "name": "76",
+      "address": "770 N ID-41, Post Falls",
       "price": 3.35,
       "formatted_price": "$3.35",
-      "distance": 2.2
+      "distance": 2.0
+    },
+    {
+      "name": "Handy Mart",
+      "address": "312 N Spokane St, Post Falls",
+      "price": 3.35,
+      "formatted_price": "$3.35",
+      "distance": 0.9
     },
     {
       "name": "Maverik",
@@ -30,27 +51,6 @@
       "price": 3.35,
       "formatted_price": "$3.35",
       "distance": 1.9
-    },
-    {
-      "name": "76",
-      "address": "1815 E Seltice Way, Post Falls",
-      "price": 3.35,
-      "formatted_price": "$3.35",
-      "distance": 1.1
-    },
-    {
-      "name": "Jifi Stop",
-      "address": "7785 W Lancaster Rd, Rathdrum",
-      "price": 3.35,
-      "formatted_price": "$3.35",
-      "distance": 5.2
-    },
-    {
-      "name": "Amerimart",
-      "address": "7035 W Seltice Way, Post Falls",
-      "price": 3.41,
-      "formatted_price": "$3.41",
-      "distance": 5.0
     }
   ]
 }

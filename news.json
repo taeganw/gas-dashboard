@@ -1,41 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-11-23 02:00 PM UTC",
+  "updated": "2026-11-24 02:00 PM UTC",
   "headlines": [
+    {
+      "headline": "'Kids are getting hurt': Idaho lawmakers push for E-moto regulations",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/kids-getting-hurt-idaho-lawmakers-push-e-moto-regulations/277-e775736e-7862-428c-931e-80e037da4c9e",
+      "published": "2026-11-24T01:27:29+00:00",
+      "time_ago": "12h ago"
+    },
+    {
+      "headline": "Coeur d'Alene Lighting Ceremony Parade returns Friday for its 34th year",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/coeur-dalene-lighting-ceremony-parade-friday/293-34a458b6-4f06-4c4d-9509-8bf2df67a9c5",
+      "published": "2026-11-23T19:50:12+00:00",
+      "time_ago": "18h ago"
+    },
     {
       "headline": "Sandpoint residents to receive free parking permits next year",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/sandpoint-residents-to-receive-free-parking-permits-next-year/293-48389c8a-10b2-470e-aeb5-29523bfcbf27",
       "published": "2026-11-21T19:15:24+00:00",
-      "time_ago": "1d ago"
+      "time_ago": "2d ago"
     },
     {
       "headline": "Rathdrum development offers ownership opportunities for individuals making 80% of area median income",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/rathdrum-development-offers-ownership-opportunities-for-individuals-making-80-of-area-median-income/293-3179dcb6-1647-41a5-8d4a-2394aa2d1bea",
       "published": "2026-11-21T19:09:36+00:00",
-      "time_ago": "1d ago"
+      "time_ago": "2d ago"
     },
     {
       "headline": "Driver rescued after semi-truck flips over into Coeur d\u2019Alene River",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/driver-rescued-after-semi-truck-flips-over-into-coeur-dalene-river/293-8e537df4-c5e2-46d3-b8de-7a6c820d8d2c",
       "published": "2026-11-21T01:04:22+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "Idaho Potato Drop officially being hosted in Caldwell; exact location pending",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/potato-drop-officially-being-hosted-caldwell-exact-location-pending/277-48bb36b0-62b8-49b5-bb12-bfb7135f0e7f",
-      "published": "2026-11-20T23:25:33+00:00",
-      "time_ago": "2d ago"
-    },
-    {
-      "headline": "ITD warns Idahoans of new traffic citation scam",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/itd-warns-idahoans-traffic-citation-scam-call/277-cc856ef7-95ad-4e48-94e3-2c1cf9462ad0",
-      "published": "2026-11-20T19:49:06+00:00",
-      "time_ago": "2d ago"
+      "time_ago": "3d ago"
     }
   ]
 }
