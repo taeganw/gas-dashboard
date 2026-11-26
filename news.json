@@ -1,41 +1,41 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-11-25 02:00 PM UTC",
+  "updated": "2026-11-26 02:00 PM UTC",
   "headlines": [
+    {
+      "headline": "Brabeion Academy founder Branden Durst separates from school. State also investigating alleged financial questions",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/idaho-state-board-investigates-financial-irregularities-brabeion-academy-nampa-durst-steps-down/277-ba72349a-0178-4cff-959d-83b5ab2bddbd",
+      "published": "2026-11-25T19:37:14+00:00",
+      "time_ago": "18h ago"
+    },
+    {
+      "headline": "Jury deliberates Stratton murder case",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/jury-deliberates-stratton-murder-case/293-402cfcf0-30c5-4a58-bb67-ffe141670fca",
+      "published": "2026-11-25T18:34:04+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Hayden OKs contract with KCSO",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/hayden-oks-contract-with-kcso/293-0745e9f3-4064-4c89-b0e0-acc06351d3e0",
+      "published": "2026-11-25T18:29:30+00:00",
+      "time_ago": "19h ago"
+    },
+    {
+      "headline": "Orofino teen Life Flighted to hospital after crash in Clearwater County",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/orofino-teen-life-flight-crash-clearwater-county/293-acc4414a-414d-4dd3-ba92-8b41de1cfc0f",
+      "published": "2026-11-25T17:06:16+00:00",
+      "time_ago": "20h ago"
+    },
     {
       "headline": "Board of Canvassers certifies Idaho general election results, with recommendation for Latah County after result reporting discrepancy",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/board-of-canvassers-certifies-2026-general-election-results-idaho/293-5eaa7b3a-3607-4b82-8075-067693ec9526",
       "published": "2026-11-25T01:12:59+00:00",
-      "time_ago": "12h ago"
-    },
-    {
-      "headline": "Schweitzer Mountain announces opening day is Friday, November 27",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/schweitzer-mountain-opening-day-friday-november-27/293-62a9e36f-66d7-4089-932f-0e163bf818cf",
-      "published": "2026-11-25T00:54:18+00:00",
-      "time_ago": "13h ago"
-    },
-    {
-      "headline": "Three Idaho big game guides sentenced for illegal mountain lion hunts",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/three-idahoans-sentenced-illegal-big-game-outfitting-scheme/277-4ee54c46-6e27-4937-ab9a-0077ede73bf9",
-      "published": "2026-11-24T23:23:59+00:00",
-      "time_ago": "14h ago"
-    },
-    {
-      "headline": "WSD closes parking area amid auditorium concerns",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/wsd-closes-parking-area-amid-auditorium-concerns/293-69999814-23d7-46fe-8a17-bc24dd2f6bf2",
-      "published": "2026-11-24T18:31:57+00:00",
-      "time_ago": "19h ago"
-    },
-    {
-      "headline": "Hayden to consider contract with Kootenai County Sheriff's Office",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/hayden-to-consider-contract-with-kootenai-county-sheriffs-office/293-d8d89542-0463-4cf6-ae6c-e6eea6acacdf",
-      "published": "2026-11-24T18:25:26+00:00",
-      "time_ago": "19h ago"
+      "time_ago": "1d ago"
     }
   ]
 }
