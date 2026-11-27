@@ -1,40 +1,40 @@
 {
   "source": "KREM 2 News",
-  "updated": "2026-11-26 02:00 PM UTC",
+  "updated": "2026-11-27 02:00 PM UTC",
   "headlines": [
+    {
+      "headline": "Jim and Louise Grassi of Post Falls survive harrowing Mississippi River boat collision",
+      "source": "KREM 2 News",
+      "link": "https://www.krem.com/article/news/local/idaho/jim-and-louise-grassi-of-post-falls-survive-harrowing-mississippi-river-boat-collision/293-39d94897-06a9-4cd9-827d-733bf6545fb2",
+      "published": "2026-11-26T16:25:16+00:00",
+      "time_ago": "21h ago"
+    },
     {
       "headline": "Brabeion Academy founder Branden Durst separates from school. State also investigating alleged financial questions",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/idaho-state-board-investigates-financial-irregularities-brabeion-academy-nampa-durst-steps-down/277-ba72349a-0178-4cff-959d-83b5ab2bddbd",
       "published": "2026-11-25T19:37:14+00:00",
-      "time_ago": "18h ago"
+      "time_ago": "1d ago"
     },
     {
       "headline": "Jury deliberates Stratton murder case",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/jury-deliberates-stratton-murder-case/293-402cfcf0-30c5-4a58-bb67-ffe141670fca",
       "published": "2026-11-25T18:34:04+00:00",
-      "time_ago": "19h ago"
+      "time_ago": "1d ago"
     },
     {
       "headline": "Hayden OKs contract with KCSO",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/hayden-oks-contract-with-kcso/293-0745e9f3-4064-4c89-b0e0-acc06351d3e0",
       "published": "2026-11-25T18:29:30+00:00",
-      "time_ago": "19h ago"
+      "time_ago": "1d ago"
     },
     {
       "headline": "Orofino teen Life Flighted to hospital after crash in Clearwater County",
       "source": "KREM 2 News",
       "link": "https://www.krem.com/article/news/local/idaho/orofino-teen-life-flight-crash-clearwater-county/293-acc4414a-414d-4dd3-ba92-8b41de1cfc0f",
       "published": "2026-11-25T17:06:16+00:00",
-      "time_ago": "20h ago"
-    },
-    {
-      "headline": "Board of Canvassers certifies Idaho general election results, with recommendation for Latah County after result reporting discrepancy",
-      "source": "KREM 2 News",
-      "link": "https://www.krem.com/article/news/local/idaho/board-of-canvassers-certifies-2026-general-election-results-idaho/293-5eaa7b3a-3607-4b82-8075-067693ec9526",
-      "published": "2026-11-25T01:12:59+00:00",
       "time_ago": "1d ago"
     }
   ]
